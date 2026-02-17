@@ -7,6 +7,7 @@ import time
 import os, re, requests 
 from pathlib import Path
 from datetime import datetime
+import extract_text_to_company as etc
 
 URL = "https://www.bseindia.com/corporates/ann.html"
 
@@ -84,7 +85,7 @@ try:
     # type_date_by_label(driver, "From Date", today_str, timeout=25)
     # type_date_by_label(driver, "To Date", today_str, timeout=25)
 
-    time.sleep(10)  # small pause to ensure any datepicker scripts react to input    
+    # time.sleep(10)  # To change the date range
 
     # ---- Category = Company Updates ----
     select_by_label_text(driver, "Category", "Company Update")
@@ -172,6 +173,8 @@ try:
             continue
         if len(tds) > 3:
             print(f"company: '{tds[3].text.strip()}'")
+        
+        company_name = etc.extract_company_name_from_bse_text(company)
         company_key = re.sub(r"\s+", " ", company).strip().lower()
         if company_key in seen_companies:
             # already downloaded for this company (prevents duplicates)
@@ -203,8 +206,8 @@ try:
         if url_key in seen_urls:
             continue
 
-        out_file = download_dir / f"{sanitize_filename(company)}.pdf"
-        print(f"Downloading -> {company} : {out_file.name}")
+        out_file = download_dir / f"{sanitize_filename(company_name)}.pdf"
+        print(f"Downloading -> {company_name} : {out_file.name}")
 
         download_with_browser_cookies(pdf_url, out_file)
 
