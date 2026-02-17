@@ -16,6 +16,7 @@ def extract_company_name_from_bse_text(text: str) -> str | None:
     m = re.search(r"\b\d{6}\b", text)
     if not m:
         return None
+    company_code = m.group(0)
 
     # Take only the same-line chunk immediately before the code
     line_start = max(text.rfind("\n", 0, m.start()), text.rfind("\r", 0, m.start()))
@@ -30,4 +31,9 @@ def extract_company_name_from_bse_text(text: str) -> str | None:
     candidate = re.sub(r"[-\s]*[₹$]+$", "", candidate)
     candidate = re.sub(r"[-\s]+$", "", candidate).strip()
 
-    return candidate or text
+    if candidate:
+        return company_code + "_" + candidate
+    elif company_code:
+        return company_code + "_"
+    else:
+        return text.strip()  # fallback to raw text if no code found
