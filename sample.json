@@ -1,0 +1,20 @@
+{
+    "company": {
+      "name": "ABC Infra Ltd",
+      "annual_revenue_cr": 1200,
+      "industry": "Infrastructure",
+      "market_share_percent": 8.0
+    },
+    "order": {
+      "order_value_cr": 300,
+      "profit_margin_percent": 18,
+      "contract_duration_years": 3,
+      "execution_risk_score": 2,
+      "customer_credit_rating": "A",
+      "upfront_payment_percent": 45,
+      "strategic_fit": true,
+      "expected_market_share_increase_percent": 6,
+      "expected_cashflow_improvement_percent": 12,
+      "competitor_average_order_value_cr": 260
+    }
+  }

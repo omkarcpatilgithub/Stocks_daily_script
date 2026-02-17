@@ -1,0 +1,5 @@
+requests
+beautifulsoup4
+pandas
+selenium>=4.17.0
+webdriver-manager
