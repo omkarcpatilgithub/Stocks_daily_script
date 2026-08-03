@@ -1,0 +1,15 @@
+# Downloaded BSE announcement PDFs
+bse_award_orders/
+
+# Editor / tooling
+.cursor/
+
+# Python
+__pycache__/
+*.py[cod]
+
+# Virtual environment
+.venv/
+
+# Secrets
+.env
