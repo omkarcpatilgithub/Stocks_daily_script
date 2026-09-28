@@ -1,0 +1,41 @@
+{
+  "company_code": "531260",
+  "company_name": "Refex Renewables & Infrastructure Ltd",
+  "day": "2026-09-05",
+  "pdf_path": "C:\\Users\\omkar.patil\\Desktop\\Trantor Project\\Stocks_daily_script\\bse_award_orders\\2026-09-05\\531260_Refex Renewables & Infrastructure Ltd.pdf",
+  "verdict": "Good Deal",
+  "revenue": {
+    "company_name": "Refex Renewables & Infrastructure Ltd",
+    "annual_revenue": "Rs. 74 Cr",
+    "currency": "INR",
+    "fiscal_year": "FY ending Mar 31, 2025",
+    "source_notes": "Reported in Screener/Moneycontrol-style financial summaries citing the company's audited financials for FY ending March 31, 2025; figure represents consolidated/standalone revenue of Rs. 74 crore."
+  },
+  "order_details": {
+    "company": "Refex Renewables & Infrastructure Limited",
+    "order_value": "Not disclosed",
+    "currency_gst_note": "Not disclosed",
+    "order_breakup": "Not disclosed",
+    "client_awarding_authority": "SJVN Limited (A Joint Venture of Government of India and Government of Himachal Pradesh)",
+    "project_scope_summary": "Setting-up of 80-MW Wind Power Project in Kurnool, Andhra Pradesh",
+    "payment_structure": {
+      "one_time_payment": "Not disclosed",
+      "upfront_advance_pct": "Not disclosed",
+      "milestone_progressive_billing": "Not disclosed",
+      "retention_bg_ld_terms": "Not disclosed",
+      "payment_cycle_credit_period": "Not disclosed"
+    },
+    "contract_duration_execution_period": "24 months from Effective Date of PPA for commissioning; PPA tenure 25 years",
+    "other_commercial_terms": "Not disclosed",
+    "notes_caveats": "Consideration is tariff-based at ₹3.88 per kWh under 25-year PPA; no lump-sum contract value disclosed."
+  },
+  "analysis": {
+    "key_ratios": "Order Value / Annual Revenue: Not available (order value not disclosed in announcement)\nEstimated Annual PPA Revenue / Annual Revenue: Not calculable (capacity factor and generation estimates not provided)",
+    "materiality_assessment": "The 80-MW wind PPA with SJVN (a government JV) at a fixed tariff of ₹3.88/kWh for 25 years represents a significant long-term revenue stream. Given the company's modest FY2025 revenue of Rs. 74 Cr, an 80-MW project could potentially generate annual revenue comparable to or exceeding the current total revenue, making it highly material if executed successfully. However, the absence of a disclosed lump-sum order value prevents precise quantification.",
+    "risks": "1. Order value not disclosed – cannot assess immediate financial impact. 2. Revenue is tariff-based and depends on actual generation (capacity factor risk). 3. Execution risk: 24-month commissioning timeline. 4. Payment terms, advance, milestones, retention, and credit period all undisclosed. 5. Single-project concentration risk for a small company. 6. No information on EPC margins or O&M profitability.",
+    "verdict": "Good Deal",
+    "rationale": "A 25-year PPA with a government-backed counterparty at a fixed tariff provides strong revenue visibility and could be transformative for a Rs. 74 Cr revenue company. The deal quality is high, but the lack of disclosed order value, payment terms, and execution details prevents an 'Excellent Deal' rating."
+  },
+  "errors": [],
+  "saved_at": "2026-09-07T09:49:48"
+}

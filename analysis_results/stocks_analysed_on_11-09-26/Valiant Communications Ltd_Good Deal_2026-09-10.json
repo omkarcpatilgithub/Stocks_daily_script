@@ -1,0 +1,41 @@
+{
+  "company_code": "526775",
+  "company_name": "Valiant Communications Ltd",
+  "day": "2026-09-10",
+  "pdf_path": "C:\\Users\\omkar.patil\\Desktop\\Trantor Project\\Stocks_daily_script\\bse_award_orders\\2026-09-10\\526775_Valiant Communications Ltd.pdf",
+  "verdict": "Good Deal",
+  "revenue": {
+    "company_name": "Valiant Communications Ltd",
+    "annual_revenue": "₹84.87 crore (₹8,487 lakh)",
+    "currency": "INR",
+    "fiscal_year": "FY26 (FY 2025-26)",
+    "source_notes": "Revenue figure from the company's May 30, 2026 announcement of FY26 results, showing revenue from operations of ₹8,487 lakh."
+  },
+  "order_details": {
+    "company": "Valiant Communications Limited",
+    "order_value": "INR 1,388 Lacs",
+    "currency_gst_note": "INR; inclusive of taxes. GST treatment is not separately specified.",
+    "order_breakup": "Not disclosed",
+    "client_awarding_authority": "System Integrator (Private)",
+    "project_scope_summary": "Supply of communication and protection solutions as per the technical requirements.",
+    "payment_structure": {
+      "one_time_payment": "Not disclosed",
+      "upfront_advance_pct": "Not disclosed",
+      "milestone_progressive_billing": "Not disclosed",
+      "retention_bg_ld_terms": "Not disclosed",
+      "payment_cycle_credit_period": "Not disclosed"
+    },
+    "contract_duration_execution_period": "Execution period ends by 30-09-2027; exact duration not disclosed.",
+    "other_commercial_terms": "The order is a domestic supply-only order. The awarding entity has no disclosed interest from the promoter, promoter group, or group companies, and the order does not constitute a related-party transaction.",
+    "notes_caveats": "The order size is reported on a gross basis and is inclusive of taxes."
+  },
+  "analysis": {
+    "key_ratios": "Order Value / Annual Revenue = ₹1,388 lakh / ₹8,487 lakh × 100 = 16.35% (gross and inclusive of taxes)\nOrder Value / Net Profit = Not available\nOrder Value / Order Book = Not available\nOrder Value / Market Capitalisation = Not available",
+    "materiality_assessment": "The order is moderately material to revenue: at ₹1,388 lakh, it equals 16.35% of FY26 annual revenue on a gross, tax-inclusive basis. Because GST is included, the ratio to net revenue would be lower. Execution is required by 30 September 2027, so the contribution would likely be spread over multiple periods and would be less than 16.35% in any single year. It can support business growth, but its earnings impact cannot be quantified because margins, net profit, exact duration and payment terms are unavailable.",
+    "risks": "Tax-inclusive value may overstate revenue contribution; order breakup and exact execution period are undisclosed; margins are unknown; payment advances, milestone billing, credit period, retention, BG and LD terms are undisclosed; it is a one-time supply-only order awarded by a private system integrator; execution and working-capital risks remain; and missing order-book and market-cap data limit assessment of concentration and scale.",
+    "verdict": "Good Deal",
+    "rationale": "An order equivalent to about one-sixth of annual revenue is meaningful and likely to provide useful top-line visibility, but it is not transformative given its tax-inclusive basis, unspecified margins and undisclosed commercial terms."
+  },
+  "errors": [],
+  "saved_at": "2026-09-11T19:26:13"
+}

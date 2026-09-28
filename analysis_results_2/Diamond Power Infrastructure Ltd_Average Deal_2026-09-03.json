@@ -1,0 +1,41 @@
+{
+  "company_code": "522163",
+  "company_name": "Diamond Power Infrastructure Ltd",
+  "day": "2026-09-03",
+  "pdf_path": "C:\\Users\\omkar.patil\\Desktop\\Trantor Project\\Stocks_daily_script\\bse_award_orders\\2026-09-03\\522163_Diamond Power Infrastructure Ltd.pdf",
+  "verdict": "Average Deal",
+  "revenue": {
+    "company_name": "Diamond Power Infrastructure Ltd",
+    "annual_revenue": "₹1,910 Crore",
+    "currency": "INR",
+    "fiscal_year": "FY26",
+    "source_notes": "Financial results announcement showing 71% revenue growth to ₹1,910 Crore for FY26"
+  },
+  "order_details": {
+    "company": "Diamond Power Infrastructure Limited",
+    "order_value": "₹76,05,89,060/- (Rupees Seventy-Six Crore Five Lakh Eighty-Nine Thousand and Sixty Only), including GST",
+    "currency_gst_note": "Indian Rupees (₹), including GST",
+    "order_breakup": "Not disclosed",
+    "client_awarding_authority": "A domestic private-sector EPC contractor engaged in power transmission projects. The name of the counterparty is not disclosed on account of confidentiality obligations under the Letter of Acceptance.",
+    "project_scope_summary": "Supply of 38/66 kV (E), 1 core, 630 sq. mm. aluminium conductor, XLPE insulated, copper wire screened, aluminium corrugated sheathed, HDPE outer sheathed underground power cables, on FOR site basis, for a 66 kV transmission project in Gujarat. Covers approximately 293 km of cable.",
+    "payment_structure": {
+      "one_time_payment": "No",
+      "upfront_advance_pct": "Not disclosed",
+      "milestone_progressive_billing": "Not disclosed",
+      "retention_bg_ld_terms": "Not disclosed",
+      "payment_cycle_credit_period": "Not disclosed"
+    },
+    "contract_duration_execution_period": "Deliveries to commence upon manufacturing clearance, at a scheduled rate of approximately 50 km per month, to be advanced in line with project requirements.",
+    "other_commercial_terms": "The order is on a variable-price basis; final realisation will be as per the price variation formula applicable to the order.",
+    "notes_caveats": "The order value in Annexure A includes GST (₹76.06 crore). Press Release mentions order value as approximately Rs. 64.46 crore excluding GST. The counterparty name is not disclosed due to confidentiality obligations. The transaction does not fall within related party transactions."
+  },
+  "analysis": {
+    "key_ratios": "Order Value (including GST) / Annual Revenue = (₹76.0589 crore) / (₹1,910 crore) = 3.98%\nOrder Value (excluding GST) / Annual Revenue = (₹64.46 crore) / (₹1,910 crore) = 3.37%\nNet Profit: Not available\nOrder Book: Not available\nMarket Capitalisation: Not available",
+    "materiality_assessment": "The order represents roughly 4% of the company’s FY26 revenue, a modest but not negligible proportion. While it expands the firm’s project portfolio in the power transmission sector, the impact on overall earnings is limited and depends on execution and pricing terms.",
+    "risks": "• Small order size relative to total revenue reduces immediate earnings impact.\n• Variable‑price basis and undisclosed price‑variation formula create revenue uncertainty.\n• Payment terms, retention BG/LD, and credit period are not disclosed, raising cash‑flow concerns.\n• Execution risk: delivering ~293 km of specialized underground cables within a tight schedule.\n• Confidentiality of the client limits market perception and repeat‑business potential.\n• One‑time nature of the contract; no guarantee of follow‑on orders.\n• Potential margin pressure due to GST inclusion and price fluctuations.",
+    "verdict": "Average Deal",
+    "rationale": "The order is about 4% of annual revenue, indicating a moderate scale. However, uncertainties in pricing, payment, and execution temper its material impact, placing it in the average‑deal category rather than a highly material or excellent transaction."
+  },
+  "errors": [],
+  "saved_at": "2026-09-04T13:58:37"
+}

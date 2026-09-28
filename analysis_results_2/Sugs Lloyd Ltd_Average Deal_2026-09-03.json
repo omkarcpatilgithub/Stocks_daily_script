@@ -1,0 +1,41 @@
+{
+  "company_code": "544501",
+  "company_name": "Sugs Lloyd Ltd",
+  "day": "2026-09-03",
+  "pdf_path": "C:\\Users\\omkar.patil\\Desktop\\Trantor Project\\Stocks_daily_script\\bse_award_orders\\2026-09-03\\544501_Sugs Lloyd Ltd.pdf",
+  "verdict": "Average Deal",
+  "revenue": {
+    "company_name": "Sugs Lloyd Ltd",
+    "annual_revenue": "₹176.19 Cr (approx.)",
+    "currency": "INR",
+    "fiscal_year": "FY 2024-25",
+    "source_notes": "Revenue figure from IPO report (Aug 2025); alternative source indicates range of ₹100-500 Cr for FY ending Mar 2025. Exact figure may vary; ₹176.19 Cr appears in IPO disclosures as latest fiscal year revenue."
+  },
+  "order_details": {
+    "company": "SUGS Lloyd Limited",
+    "order_value": "₹24,63,21,978 (including GST)",
+    "currency_gst_note": "INR (GST included)",
+    "order_breakup": "Year 1: ₹8,21,07,326; Year 2: ₹8,21,07,326; Year 3: ₹8,21,07,326",
+    "client_awarding_authority": "TP Central Odisha Distribution Limited (TPCODL)",
+    "project_scope_summary": "Maintenance Contract of HT & LT Network of TPCODL",
+    "payment_structure": {
+      "one_time_payment": "Not disclosed",
+      "upfront_advance_pct": "Not disclosed",
+      "milestone_progressive_billing": "Not disclosed",
+      "retention_bg_ld_terms": "Not disclosed",
+      "payment_cycle_credit_period": "Not disclosed"
+    },
+    "contract_duration_execution_period": "Three years (01.10.2026 to 30.09.2029)",
+    "other_commercial_terms": "Not disclosed",
+    "notes_caveats": "Not disclosed"
+  },
+  "analysis": {
+    "key_ratios": "Order Value / Annual Revenue: ₹24.63 Cr ÷ ₹176.19 Cr × 100 = 13.98%\nAnnual Revenue Impact (Year-wise): ₹8.21 Cr ÷ ₹176.19 Cr × 100 = 4.66% per year\nNet Profit / Order Book / Market Capitalisation: Not available",
+    "materiality_assessment": "The order represents 13.98% of annual revenue, which is moderately material. On an annual basis (~4.66% per year), the impact is modest but meaningful for a company of this revenue size. The 3-year duration provides revenue visibility and stability, making it a reasonable contributor to forward revenue. However, without net profit margin data, the earnings impact cannot be precisely assessed.",
+    "risks": "1. Payment terms entirely undisclosed — one-time vs. milestone billing unknown, credit period not specified; significant cash flow uncertainty.\n2. Retention, performance bank guarantee (PBG), and liquidated damages (LD) terms not disclosed — potential contingent liabilities.\n3. Margins on maintenance contracts are typically thin (~5–15%), so even a ₹24.63 Cr order may yield modest profit contribution.\n4. Contract commences 01.10.2026 — over 1+ year gap creates timing uncertainty and no near-term revenue acceleration.\n5. One-time nature — this is a recurring maintenance contract, not a growth project; does not expand business capacity.\n6. Client concentration risk — sole client TPCODL with no diversification.\n7. Escalation/escalation clause for cost inflation over 3 years not disclosed — margin erosion risk.",
+    "verdict": "Average Deal",
+    "rationale": "While the ₹24.63 Cr order (~14% of revenue) is material on paper, the deal scores only 'Average' due to: (a) undisclosed payment structure and commercial terms introducing execution and cash flow risk; (b) thin-margin nature of maintenance contracts; (c) delayed start date limiting near-term impact; (d) uniform annual billing reducing front-loaded value. The deal provides useful 3-year revenue visibility but lacks the scale, margin clarity, or strategic upside to qualify as a transformative or 'Excellent' opportunity. Without net profit data, the earnings quality remains uncertain. Investors should seek clarification on payment terms and margin assumptions before upgrading this to a positive signal."
+  },
+  "errors": [],
+  "saved_at": "2026-09-04T14:09:41"
+}

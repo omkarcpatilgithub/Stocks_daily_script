@@ -78,7 +78,7 @@ if __name__ == "__main__":
     with open("sample.json") as f:
         data = json.load(f)
 
-    results, passed, total, verdict = analyze_order(data, THRESHOLDS)
+    results, passed, totaLLM_MODEL l, verdict = analyze_order(data, THRESHOLDS)
 
     print("Evaluation Results:")
     for k, v in results.items():

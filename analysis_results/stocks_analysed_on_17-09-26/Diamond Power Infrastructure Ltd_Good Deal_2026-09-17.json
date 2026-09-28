@@ -1,0 +1,41 @@
+{
+  "company_code": "522163",
+  "company_name": "Diamond Power Infrastructure Ltd",
+  "day": "2026-09-17",
+  "pdf_path": "C:\\Users\\omkar.patil\\Desktop\\Trantor Project\\Stocks_daily_script\\bse_award_orders\\2026-09-17\\522163_Diamond Power Infrastructure Ltd.pdf",
+  "verdict": "Good Deal",
+  "revenue": {
+    "company_name": "Diamond Power Infrastructure Ltd",
+    "annual_revenue": "₹1,910.10 crore",
+    "currency": "INR",
+    "fiscal_year": "FY2026 (ended March 31, 2026)",
+    "source_notes": "Revenue figure from company announcement dated Sep 2, 2026 for fiscal year ended March 31, 2026."
+  },
+  "order_details": {
+    "company": "Diamond Power Infrastructure Limited",
+    "order_value": "~₹263.25 crore",
+    "currency_gst_note": "Indian Rupees (₹), inclusive of GST",
+    "order_breakup": "MV & LV XLPE underground power cables, overhead conductors and control cables, manufactured to MSEDCL specifications",
+    "client_awarding_authority": "A domestic EPC contractor (for project of Maharashtra State Electricity Distribution Company Limited - MSEDCL)",
+    "project_scope_summary": "Urban power infrastructure project in the Bhandup region, Maharashtra - underground cabling and overhead line strengthening",
+    "payment_structure": {
+      "one_time_payment": "Not disclosed",
+      "upfront_advance_pct": "Not disclosed",
+      "milestone_progressive_billing": "Not disclosed",
+      "retention_bg_ld_terms": "Not disclosed",
+      "payment_cycle_credit_period": "Not disclosed"
+    },
+    "contract_duration_execution_period": "As per delivery schedule to be communicated after approval of GTP (Technical Particulars) and drawings by MSEDCL",
+    "other_commercial_terms": "Pricing on a variable basis linked to prevailing aluminium and copper prices and currency; Guarantee of 66 months from supply or 60 months from commissioning, whichever is earlier; Quantities are indicative and subject to site survey; Final value subject to site survey and price variation",
+    "notes_caveats": "Order quantities are indicative and final value is subject to site survey and price variation. Order has been received in the ordinary course of business and at arm's length."
+  },
+  "analysis": {
+    "key_ratios": "Order Value / Annual Revenue = ₹263.25 crore / ₹1,910.10 crore × 100 = 13.78% (approximately; order value is inclusive of GST, so the revenue-equivalent ratio may be lower).\nNet Profit comparison: Not available.\nOrder Book comparison: Not available.\nMarket Capitalisation comparison: Not available.",
+    "materiality_assessment": "The order is moderately meaningful, representing approximately 13.8% of annual revenue. It could support revenue growth and manufacturing utilization, but it is not large enough to be transformative. Its earnings impact cannot be determined without margin, net profit, execution schedule, and payment-term details.",
+    "risks": "Order value is inclusive of GST; final value is subject to site survey, indicative quantities, and price variation. Aluminium, copper, currency movements, and variable pricing may affect realization. Execution schedule, margins, payment terms, advances, milestone billing, retention, and credit period are undisclosed. The order may be one-time and carries normal execution and guarantee obligations.",
+    "verdict": "Good Deal",
+    "rationale": "An order equivalent to about 13.8% of annual revenue is commercially meaningful and should provide a useful revenue boost, although uncertainty over final value, margins, timing, and payment terms prevents it from being classified as transformative."
+  },
+  "errors": [],
+  "saved_at": "2026-09-17T17:30:36"
+}

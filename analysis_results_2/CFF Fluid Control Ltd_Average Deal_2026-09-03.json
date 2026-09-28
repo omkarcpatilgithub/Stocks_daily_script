@@ -1,0 +1,41 @@
+{
+  "company_code": "543920",
+  "company_name": "CFF Fluid Control Ltd",
+  "day": "2026-09-03",
+  "pdf_path": "C:\\Users\\omkar.patil\\Desktop\\Trantor Project\\Stocks_daily_script\\bse_award_orders\\2026-09-03\\543920_CFF Fluid Control Ltd.pdf",
+  "verdict": "Average Deal",
+  "revenue": {
+    "company_name": "CFF Fluid Control Ltd",
+    "annual_revenue": "₹2,087.363 million",
+    "currency": "INR",
+    "fiscal_year": "FY26",
+    "source_notes": "Audited FY26 results announced May 5, 2026 with revenue from operations at ₹20,873.63 lakhs"
+  },
+  "order_details": {
+    "company": "CFF Fluid Control Limited",
+    "order_value": "INR 15.29 Crores (Including Tax)",
+    "currency_gst_note": "INR; Value includes tax (GST)",
+    "order_breakup": "Not disclosed",
+    "client_awarding_authority": "Mazagon Dock Shipbuilders Limited; Naval Dockyard; Naval Group India Pvt Ltd (referred to as 'Various Customers')",
+    "project_scope_summary": "Contract for Supply of Services And Equipment",
+    "payment_structure": {
+      "one_time_payment": "Not disclosed",
+      "upfront_advance_pct": "Not disclosed",
+      "milestone_progressive_billing": "Not disclosed",
+      "retention_bg_ld_terms": "Not disclosed",
+      "payment_cycle_credit_period": "Not disclosed"
+    },
+    "contract_duration_execution_period": "Various delivery dates: November 2026, February 2028, August 2028",
+    "other_commercial_terms": "Order awarded by domestic entities; No promoter/group/related party interest in awarding entities; Not a related party transaction",
+    "notes_caveats": "The PDF does not disclose detailed payment terms, order breakup, or specific commercial conditions beyond what is listed in Annexure-A. Payment structure details are not mentioned in the document."
+  },
+  "analysis": {
+    "key_ratios": "Order Value / Annual Revenue = ₹15.29 Cr ÷ ₹208.74 Cr = 7.32%",
+    "materiality_assessment": "The order represents ~7.32% of FY26 annual revenue, a moderate contribution. With no disclosed net profit, existing order book, or market capitalisation figures available, the revenue base (₹208.74 Cr) is the sole benchmark. The order is meaningful but not transformative. Execution spans November 2026 to August 2028, indicating a multi-year revenue recognition window, which spreads the annual revenue impact across multiple fiscal years (estimated ~3.66% per year if evenly distributed).",
+    "risks": "1. Undisclosed payment structure — no clarity on milestone billing, retention, or credit terms introduces working capital risk. 2. Order breakup not disclosed — cost of goods sold/margins unknown; profitability is unquantifiable. 3. Multi-customer award ('Various Customers') — risk of partial non-execution or renegotiation if one customer defaults or reduces scope. 4. Multi-year execution (Nov 2026–Aug 2028) — cost overruns, inflation, or supply chain disruptions over a 2-year horizon can erode margins. 5. Exclusivity or repeat-order likelihood not indicated — this appears to be a one-time contract. 6. No net profit or EBITDA data provided — unable to assess earnings impact directly.",
+    "verdict": "Average Deal",
+    "rationale": "The ₹15.29 Cr order is a reasonable revenue supplement at ~7.32% of annual revenue and provides 2-year forward revenue visibility, which is positive for planning. However, the lack of disclosed margins, payment terms, order breakup, and cost structure makes it impossible to assess true profitability or earnings impact. The undisclosed payment structure is a significant commercial risk. Without confirmed repeat-order potential or a disclosed order book baseline, this order is a modest but not materially transformative event for CFF Fluid Control Ltd."
+  },
+  "errors": [],
+  "saved_at": "2026-09-04T14:05:28"
+}

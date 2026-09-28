@@ -1,0 +1,41 @@
+{
+  "company_code": "544526",
+  "company_name": "Saatvik Green Energy Ltd",
+  "day": "2026-09-03",
+  "pdf_path": "C:\\Users\\omkar.patil\\Desktop\\Trantor Project\\Stocks_daily_script\\bse_award_orders\\2026-09-03\\544526_Saatvik Green Energy Ltd.pdf",
+  "verdict": "Good Deal",
+  "revenue": {
+    "company_name": "Saatvik Green Energy Ltd",
+    "annual_revenue": "Not disclosed",
+    "currency": "INR",
+    "fiscal_year": "Not disclosed",
+    "source_notes": "Saatvik Green Energy Limited is a privately held company and does not publicly disclose its annual revenue figures."
+  },
+  "order_details": {
+    "company": "Saatvik Green Energy Limited",
+    "order_value": "INR 297.5 Crores",
+    "currency_gst_note": "INR (Indian Rupees); GST treatment not disclosed",
+    "order_breakup": "Not disclosed - aggregate value from two entities without individual breakup",
+    "client_awarding_authority": "Two renowned Independent Power Producers/EPC Players (names not disclosed)",
+    "project_scope_summary": "Supply of Solar PV Modules",
+    "payment_structure": {
+      "one_time_payment": "Not disclosed",
+      "upfront_advance_pct": "Not disclosed",
+      "milestone_progressive_billing": "Not disclosed",
+      "retention_bg_ld_terms": "Not disclosed",
+      "payment_cycle_credit_period": "Not disclosed"
+    },
+    "contract_duration_execution_period": "Execution by March 2027",
+    "other_commercial_terms": "Not disclosed",
+    "notes_caveats": "Order received and accepted by Saatvik Solar Industries Private Limited (material subsidiary of the Company); Not a related party transaction; Promoter/promoter group has no interest in the awarding entities"
+  },
+  "analysis": {
+    "key_ratios": "Order Value / Annual Revenue: Cannot be calculated - Annual Revenue is Not available (Saatvik Green Energy is privately held and does not publicly disclose revenue).\nOrder Value / Net Profit: Cannot be calculated - Net Profit is Not available.\nOrder Value / Order Book: Cannot be calculated - Existing Order Book is Not available.\nOrder Value / Market Capitalisation: Cannot be calculated - Market Capitalisation is Not available (company is privately held, though now listed context may apply; precise market cap not provided).\nAbsolute Order Value: INR 297.5 Crores (aggregate from two unnamed IPPs/EPC players).\nExecution Timeline: ~3 months from announcement to March 2027 (execution by March 2027) — implies rapid revenue recognition cycle.",
+    "materiality_assessment": "Because Saatvik Green Energy's annual revenue, net profit, order book and market cap were not disclosed in the inputs, a quantitative materiality ratio (Order Value ÷ Revenue) cannot be computed. Qualitatively, INR 297.5 Crores from two independent IPPs/EPC clients for Solar PV Module supply is a sizeable single order for an Indian solar module manufacturer, and is being executed through Saatvik Solar Industries Pvt Ltd, a material subsidiary of the listed parent. The order is non-related-party and promoter-neutral, which adds credibility. The fact that it is a supply contract (not a service or low-margin trading deal) and involves two reputed IPP/EPC counterparties suggests a meaningful contribution to FY26/FY27 revenue, potentially material at the consolidated level given typical revenue sizes of mid-sized Indian module manufacturers. However, without the revenue base, exact materiality cannot be quantified — likely in the low-to-mid single digit % of annual sales range if revenue is in the INR 3,000–6,000 Cr band typical for listed module peers, which would make it a Good Deal rather than transformational.",
+    "risks": "1) Quantitative materiality cannot be confirmed — annual revenue, net profit, order book and market cap are Not available, so the order's true significance versus the company's size is uncertain. 2) Client names undisclosed — counterparty creditworthiness and order cancellation risk cannot be independently verified. 3) Aggregate value disclosed but no per-client or per-line-item breakup, hiding concentration risk. 4) GST treatment not specified, which affects realisable revenue. 5) Payment terms (advance, milestone billing, retention/LC, credit period) are Not disclosed — could imply working-capital stress if terms are unfavourable. 6) Solar PV module segment is highly competitive and low-margin (~5–12% gross margin industry-typical), so a large absolute order value does not translate into proportionally large profit. 7) Tight execution window (by March 2027) creates delivery, capacity-utilisation and logistics execution risk. 8) Commodity-linked inputs (polysilicon, wafer, cell) expose margins to raw-material price swings during execution. 9) One-time nature — no clarity on repeat-order or long-term framework agreement. 10) Regulatory/policy risk: changes in ALMM, BCD, or domestic content rules may affect module supply economics.",
+    "verdict": "Good Deal",
+    "rationale": "INR 297.5 Crores from two reputed IPP/EPC clients for Solar PV Module delivery is a sizeable, credible, non-related-party order booked through a material subsidiary, with a defined March 2027 execution deadline that should meaningfully boost near-term revenue. It is positive enough to qualify as a Good Deal. However, it cannot be classified as Excellent because: (a) revenue base, order book and margins are unknown, preventing confirmation of transformational materiality; (c) counterparty identities, breakup, GST treatment and payment terms are undisclosed, creating visibility and working-capital risk; and (d) the solar module business is inherently competitive with thin margins, so the order's profit impact will be a fraction of its headline size. Verdict reflects strong commercial value with moderate execution/disclosure risk."
+  },
+  "errors": [],
+  "saved_at": "2026-09-04T14:10:47"
+}

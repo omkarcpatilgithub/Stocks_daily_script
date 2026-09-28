@@ -1,0 +1,44 @@
+{
+  "company_code": "531859",
+  "company_name": "Oriental Rail Infrastructure Ltd",
+  "day": "2026-09-11",
+  "pdf_path": "C:\\Users\\omkar.patil\\Desktop\\Trantor Project\\Stocks_daily_script\\bse_award_orders\\2026-09-11\\531859_Oriental Rail Infrastructure Ltd.pdf",
+  "verdict": "Good Deal",
+  "revenue": {
+    "company_name": "Oriental Rail Infrastructure Ltd",
+    "annual_revenue": "₹573.35 crore",
+    "currency": "INR",
+    "fiscal_year": "FY26",
+    "source_notes": "Latest reported annual revenue; down 5.7% year over year from ₹608.20 crore in FY25."
+  },
+  "order_details": {
+    "company": "Oriental Rail Infrastructure Limited",
+    "order_value": "Rs. 5,84,75,844.00",
+    "currency_gst_note": "INR, GST not disclosed",
+    "order_breakup": "Not disclosed",
+    "client_awarding_authority": "Modern Coach Factory (MCF), Raebareli, Indian Railways",
+    "project_scope_summary": "Manufacturing and supply of 54 sets of Seats for LHB Non-AC Chair Car Coaches",
+    "payment_structure": {
+      "one_time_payment": "Yes",
+      "upfront_advance_pct": "Not disclosed",
+      "milestone_progressive_billing": "Not disclosed",
+      "retention_bg_ld_terms": "Not disclosed",
+      "payment_cycle_credit_period": "Not disclosed"
+    },
+    "contract_duration_execution_period": "Execution by January 10, 2027",
+    "other_commercial_terms": "Not disclosed",
+    "notes_caveats": "Not disclosed"
+  },
+  "analysis": {
+    "key_ratios": [
+      "Order Value / Annual Revenue (%) = 1.02%",
+      "Calculation: 5,84,75,844 / 573.35 crore = 1.02%"
+    ],
+    "materiality_assessment": "Moderately material - while representing only ~1% of annual revenue, this is a significant contract with a major client (Indian Railways via Modern Coach Factory) involving 54 seat sets, contributing directly to operational capacity expansion.",
+    "risks": "Small order size relative to annual revenue; undisclosed payment terms (upfront advance, milestone billing, retention BG/LD, credit period); one-time payment structure creates cash flow uncertainty; limited scope (single project vs. ongoing revenue stream); GST not disclosed on order value; contract execution deadline of January 10, 2027 requires timely delivery.",
+    "verdict": "Good Deal",
+    "rationale": "The order represents a substantial contract with a strategic government client (Indian Railways) and involves significant procurement activity (54 seat sets), providing meaningful contribution to operational capacity despite being modest relative to total annual revenue. The main risks stem from undisclosed payment terms and the one-time nature of the payment structure, but the deal remains valuable enough to warrant positive consideration."
+  },
+  "errors": [],
+  "saved_at": "2026-09-11T19:20:21"
+}

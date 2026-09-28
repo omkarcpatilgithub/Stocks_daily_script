@@ -1,0 +1,41 @@
+{
+  "company_code": "526935",
+  "company_name": "Kalind Ltd",
+  "day": "2026-09-06",
+  "pdf_path": "C:\\Users\\omkar.patil\\Desktop\\Trantor Project\\Stocks_daily_script\\bse_award_orders\\2026-09-06\\526935_Kalind Ltd.pdf",
+  "verdict": "Good Deal",
+  "revenue": {
+    "company_name": "Kalind Ltd",
+    "annual_revenue": "₹51.6L",
+    "currency": "INR",
+    "fiscal_year": "FY25 (ending March 31, 2025)",
+    "source_notes": "Revenue figure from March 20, 2026, statement indicating ₹51.6L revenue for the financial year ending March 31, 2025."
+  },
+  "order_details": {
+    "company": "Kalind Limited (Formerly Arunis Abode Limited)",
+    "order_value": "USD 5,263,000 (approximately Rs. 50 Crore), subject to exchange rate fluctuations",
+    "currency_gst_note": "USD (United States Dollars); INR equivalent approx. Rs. 50 Crore; subject to exchange rate fluctuations. No GST-specific mention in the document.",
+    "order_breakup": "Not disclosed",
+    "client_awarding_authority": "AME SAKI Mining and Construction Limited, Tarkwa, Western Region, Ghana",
+    "project_scope_summary": "Provision of heavy earthmoving and mining equipment along with associated operational support services, including skilled equipment operators, service engineers, maintenance and spare parts support, and logistics-related services at the designated mining operational area in Tarkwa, Ghana.",
+    "payment_structure": {
+      "one_time_payment": "Not disclosed",
+      "upfront_advance_pct": "Not disclosed",
+      "milestone_progressive_billing": "Not disclosed",
+      "retention_bg_ld_terms": "Not disclosed",
+      "payment_cycle_credit_period": "Not disclosed"
+    },
+    "contract_duration_execution_period": "Initial period of up to 12 months from the effective date of 5th September, 2026, extendable by mutual written agreement between the parties.",
+    "other_commercial_terms": "Terms and conditions as specified in the Equipment Rental & Services Agreement (Work Order No. ASESG/ULT/2026/007 dated 5th September, 2026). The order is from an international entity and does not involve any promoter/promoter group/group company interest or related party transaction.",
+    "notes_caveats": "The contract value is subject to exchange rate fluctuations. Detailed payment terms, breakup, and specific commercial conditions are not disclosed in the provided PDF; only the broad consideration and general terms are mentioned."
+  },
+  "analysis": {
+    "key_ratios": "Order Value / Annual Revenue: 9689% (₹50 Cr / ₹0.516 Cr)",
+    "materiality_assessment": "The order value of approximately ₹50 Crore is about 97 times the company's latest annual revenue of ₹51.6 lakh, indicating the order is substantially larger than the company's current sales base and could significantly affect future earnings if executed successfully.",
+    "risks": "Undisclosed payment terms and milestones; exposure to exchange rate fluctuations; execution risk in Ghana; potential one-time nature of the contract; lack of details on margins and cost structure.",
+    "verdict": "Good Deal",
+    "rationale": "The order's size relative to revenue suggests a material positive impact on earnings, but risks around payment terms, execution, and currency fluctuations prevent an Excellent Deal rating."
+  },
+  "errors": [],
+  "saved_at": "2026-09-06T20:20:54"
+}

@@ -1,0 +1,41 @@
+{
+  "company_code": "544732",
+  "company_name": "Innovision Ltd",
+  "day": "2026-09-03",
+  "pdf_path": "C:\\Users\\omkar.patil\\Desktop\\Trantor Project\\Stocks_daily_script\\bse_award_orders\\2026-09-03\\544732_Innovision Ltd.pdf",
+  "verdict": "Average Deal",
+  "revenue": {
+    "company_name": "Innovision Ltd",
+    "annual_revenue": "₹9,793.98 million (approx ₹979.40 crore)",
+    "currency": "INR",
+    "fiscal_year": "FY26 (ended March 31, 2026)",
+    "source_notes": "Reported revenue from operations for FY26 was ₹9,793.98 million, up from ₹8,930.03 million in FY25, per latest financial results."
+  },
+  "order_details": {
+    "company": "Innovision Limited",
+    "order_value": "Rs. 48,25,29,635 (Rupees Forty Eight Crore Twenty Five Lakh Twenty Nine Thousand Six Hundred and Thirty Five Only)",
+    "currency_gst_note": "Indian Rupees - GST treatment not disclosed",
+    "order_breakup": "Not disclosed",
+    "client_awarding_authority": "NHAI (National Highways Authority of India)",
+    "project_scope_summary": "Engagement as user fee agency on the basis of competitive bidding at Mangapatnam Fee Plaza at Tadipatri to Jammalamadugu via Muddanur of NH-67 in the state of Andhra Pradesh and upkeep/maintenance of adjacent Toilet blocks including recouping the consumable items",
+    "payment_structure": {
+      "one_time_payment": "Not disclosed",
+      "upfront_advance_pct": "Not disclosed",
+      "milestone_progressive_billing": "Not disclosed",
+      "retention_bg_ld_terms": "Not disclosed",
+      "payment_cycle_credit_period": "Not disclosed"
+    },
+    "contract_duration_execution_period": "1 year",
+    "other_commercial_terms": "Not disclosed",
+    "notes_caveats": "Tender ID: NHAI/13013/547/CO/26-27/CB/Mangapatnam FP/E277511/B1/R/36; Order date: 02.09.2026; Nature: Toll collection and facility maintenance contract; Promoter/promoter group interest: NA; Related party transaction: No"
+  },
+  "analysis": {
+    "key_ratios": "Order Value = ₹48.253 crore (₹482.53 million)\nAnnual Revenue (FY26) = ₹979.40 crore (₹9,793.98 million)\nOrder Value / Annual Revenue = 482.53 / 9,793.98 = 0.04927 ≈ 4.93%\nNet Profit: Not available\nOrder Book (pre-order): Not available\nMarket Capitalisation: Not available",
+    "materiality_assessment": "The order value of ~₹48.25 crore represents roughly 4.93% of Innovision Ltd's FY26 annual revenue of ~₹979.40 crore. This is a modest, single-digit percentage contribution and is therefore not transformational for the company. The contract is from a reputable government counterparty (NHAI), which adds credibility, but the scope is limited to toll collection (user fee agency) and upkeep of adjacent toilet blocks on a specific NH-67 stretch in Andhra Pradesh. The 1-year duration makes it a short-tenure, service-oriented engagement rather than a capital project. Without disclosed revenue sharing terms, margin profile, or renewal probability, the earnings accretion is uncertain, though NHAI toll-collection contracts typically carry low-risk, fee-based revenue.",
+    "risks": "1. Small order size – only ~4.93% of annual revenue, limiting standalone impact.\n2. Short contract duration of just 1 year, creating renewal/continuity risk.\n3. Nature of work (toll fee collection + toilet upkeep) is low-margin, fee/agency-based revenue rather than high-value EPC execution.\n4. Payment structure, GST treatment, retention/BG terms and credit period all undisclosed, raising working capital uncertainty.\n5. Single contract concentration with one government client; delays in NHAI disbursements or policy changes could affect cash flows.\n6. Competitive bidding basis suggests margins may be under pricing pressure.\n7. No clarity on whether this is incremental to existing order book or a replacement of an expiring contract.",
+    "verdict": "Average Deal",
+    "rationale": "At ~4.93% of FY26 revenue, the order is meaningful enough to be noticed but too small to be material to overall earnings or growth trajectory. While the NHAI counterparty is strong and the contract is secured through competitive bidding, the 1-year duration, low-margin agency nature of the work, and undisclosed commercial terms keep the upside limited. It is a solid but non-transformational win – an average deal."
+  },
+  "errors": [],
+  "saved_at": "2026-09-04T14:11:16"
+}

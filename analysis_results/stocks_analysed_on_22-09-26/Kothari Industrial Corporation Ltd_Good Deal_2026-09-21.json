@@ -1,0 +1,41 @@
+{
+  "company_code": "509732",
+  "company_name": "Kothari Industrial Corporation Ltd",
+  "day": "2026-09-21",
+  "pdf_path": "C:\\Users\\omkar.patil\\Desktop\\Trantor Project\\Stocks_daily_script\\bse_award_orders\\2026-09-21\\509732_Kothari Industrial Corporation Ltd.pdf",
+  "verdict": "Good Deal",
+  "revenue": {
+    "company_name": "Kothari Industrial Corporation Ltd",
+    "annual_revenue": "₹17.83 crore (approximately ₹178.30 million)",
+    "currency": "INR",
+    "fiscal_year": "FY 2025-2026",
+    "source_notes": "Latest annual revenue reported in the company's FY2025-2026 financial results, with full-year revenue of ₹17,830.36 lakh."
+  },
+  "order_details": {
+    "company": "Kothari Industrial Corporation Limited",
+    "order_value": "Rs. 24,93,35,076/- (approximate three-year cost)",
+    "currency_gst_note": "Indian Rupees (Rs.); GST treatment not disclosed in the LOA",
+    "order_breakup": "Rs. 9.08 per packet",
+    "client_awarding_authority": "Tiruppur City Municipal Corporation, Tiruppur",
+    "project_scope_summary": "Food services / catering under Perunthalaivar Kamarajar Morning Breakfast Scheme to school children from common kitchen at Anupparpalayam Government Higher Secondary School premises, covering Wards 11, 31, 47 and 41",
+    "payment_structure": {
+      "one_time_payment": "Not disclosed",
+      "upfront_advance_pct": "Not disclosed",
+      "milestone_progressive_billing": "Not disclosed",
+      "retention_bg_ld_terms": "Not disclosed",
+      "payment_cycle_credit_period": "Not disclosed"
+    },
+    "contract_duration_execution_period": "Approximately three years (school working days); agreement to be executed within 15 days of LOA receipt",
+    "other_commercial_terms": "Bid dated 03.09.2026 accepted; security deposit to be furnished within 7 days of LOA receipt; domestic entity; no promoter/related-party interest",
+    "notes_caveats": "Value is approximate for three-year school working days; exact payment terms (advance/milestone/retention) not disclosed in the announcement"
+  },
+  "analysis": {
+    "key_ratios": "Order Value / Annual Revenue = ₹24.9335 crore / ₹17.83 crore × 100 = 139.84%\nAnnualized Order Value / Annual Revenue = (₹24.9335 crore / 3) / ₹17.83 crore × 100 = 46.61% per year\nOrder Value / Net Profit = Not available\nOrder Value / Existing Order Book = Not available\nOrder Value / Market Capitalisation = Not available",
+    "materiality_assessment": "The order is highly material on a revenue basis. Its three-year value equals approximately 1.40 times the latest annual revenue, while the annualized value represents about 46.61% of annual revenue. It could materially improve revenue visibility and business growth if executed successfully. However, its earnings impact cannot be quantified because net profit, margins, payment terms and other commercial details are not disclosed.",
+    "risks": "The order value is approximate and dependent on school working days. Catering contracts may have low or volatile margins. Payment cycle, advances, milestone billing, retention, bank guarantee and liquidated-damages terms are undisclosed. The required security deposit may increase working-capital needs. Execution, food-quality, supply-chain and municipal-client concentration risks are present. GST treatment is unclear, and the contract is limited to approximately three years with no renewal assurance.",
+    "verdict": "Good Deal",
+    "rationale": "The order is substantial relative to revenue and provides multi-year business visibility, but execution, margin and payment-term uncertainties prevent it from being classified as an Excellent Deal."
+  },
+  "errors": [],
+  "saved_at": "2026-09-22T09:59:58"
+}

@@ -1,0 +1,41 @@
+{
+  "company_code": "532714",
+  "company_name": "KEC International Ltd",
+  "day": "2026-09-14",
+  "pdf_path": "C:\\Users\\omkar.patil\\Desktop\\Trantor Project\\Stocks_daily_script\\bse_award_orders\\2026-09-14\\532714_KEC International Ltd.pdf",
+  "verdict": "Good Deal",
+  "revenue": {
+    "company_name": "KEC International Ltd",
+    "annual_revenue": "Not disclosed",
+    "currency": "INR",
+    "fiscal_year": "Not disclosed",
+    "source_notes": "The company_revenue tool returned quarterly revenue for Q1 FY27 (₹5,024 crore) but did not provide an annual revenue figure."
+  },
+  "order_details": {
+    "company": "KEC International Ltd.",
+    "order_value": "Rs. 1,303 Crores",
+    "currency_gst_note": "Currency: Indian Rupees (Rs.). GST treatment not specified.",
+    "order_breakup": "Transmission & Distribution (T&D): 400 kV Transmission line in Northern India; 380 kV Transmission lines in Saudi Arabia; Supply of towers, hardware and poles in the Americas. Cables & Conductors: Various orders in India and overseas market.",
+    "client_awarding_authority": "Not disclosed (mentions 'existing private client' for one project, but no specific names)",
+    "project_scope_summary": "T&D projects across India, Middle East, and Americas including transmission lines and supply of towers/hardware/poles; Cables & Conductors orders in India and overseas.",
+    "payment_structure": {
+      "one_time_payment": "Not disclosed",
+      "upfront_advance_pct": "Not disclosed",
+      "milestone_progressive_billing": "Not disclosed",
+      "retention_bg_ld_terms": "Not disclosed",
+      "payment_cycle_credit_period": "Not disclosed"
+    },
+    "contract_duration_execution_period": "Not disclosed",
+    "other_commercial_terms": "Not disclosed",
+    "notes_caveats": "Orders received in normal course of business. YTD order intake stands at over Rs 7,600 crores."
+  },
+  "analysis": {
+    "key_ratios": "Order Value / Annual Revenue: Not available (annual revenue not disclosed)",
+    "materiality_assessment": "The order of Rs. 1,303 crores is substantial; compared to the disclosed Q1 FY27 revenue of Rs. 5,024 crores, it represents roughly 26% of a quarter's revenue and contributes meaningfully to the YTD order intake of over Rs. 7,600 crores, indicating it could be a material addition to the company's order book.",
+    "risks": "Undisclosed payment terms and milestones; execution risk across multiple geographies; client identity not revealed; potential margin pressure; order may be one‑time; foreign exchange exposure for overseas projects.",
+    "verdict": "Good Deal",
+    "rationale": "The order size is large relative to the company's recent quarterly revenue and adds significantly to the order book, but the lack of disclosed margins, payment structure, and client details introduces uncertainty, preventing an Excellent Deal rating."
+  },
+  "errors": [],
+  "saved_at": "2026-09-15T11:20:12"
+}

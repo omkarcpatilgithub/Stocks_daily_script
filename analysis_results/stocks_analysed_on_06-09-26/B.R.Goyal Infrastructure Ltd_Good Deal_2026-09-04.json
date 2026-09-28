@@ -1,0 +1,41 @@
+{
+  "company_code": "544335",
+  "company_name": "B.R.Goyal Infrastructure Ltd",
+  "day": "2026-09-04",
+  "pdf_path": "C:\\Users\\omkar.patil\\Desktop\\Trantor Project\\Stocks_daily_script\\bse_award_orders\\2026-09-04\\544335_B.R.Goyal Infrastructure Ltd.pdf",
+  "verdict": "Good Deal",
+  "revenue": {
+    "company_name": "B.R.Goyal Infrastructure Ltd",
+    "annual_revenue": "6.39B INR",
+    "currency": "INR",
+    "fiscal_year": "Latest twelve months (LTM) ending September 2025",
+    "source_notes": "Revenue of 3.42B INR in the half year ending September 30, 2025, bringing the last twelve months (LTM) revenue to 6.39B INR, up 13.10% year-over-year."
+  },
+  "order_details": {
+    "company": "B.R. Goyal Infrastructure Limited",
+    "order_value": "Rs. 108,68,07,575/- (Rupees One Hundred Eight Crore Sixty-Eight Lakh Seven Thousand Five Hundred and Seventy-Five Only)",
+    "currency_gst_note": "Indian Rupees (INR); GST treatment not disclosed",
+    "order_breakup": "Not disclosed",
+    "client_awarding_authority": "National Highways Authority of India (NHAI)",
+    "project_scope_summary": "Engagement of user fee collection agency through e-Tender for Chillakallu (Km. 205.025) toll plaza for the 4/6 laning of Hyderabad-Vijayawada section of NH-65 (Old NH-9) from Km. 40+000 to Km. 221+500 on DBFOT basis in Telangana and Andhra Pradesh",
+    "payment_structure": {
+      "one_time_payment": "Not disclosed",
+      "upfront_advance_pct": "Not disclosed",
+      "milestone_progressive_billing": "Not disclosed",
+      "retention_bg_ld_terms": "Not disclosed",
+      "payment_cycle_credit_period": "Not disclosed"
+    },
+    "contract_duration_execution_period": "One (01) Year",
+    "other_commercial_terms": "Awarded on the basis of competitive bidding through e-tender; Letter of Award (LOA) for collection of user fee at Chillakallu Toll Plaza; Domestic entity; No promoter/group interest in NHAI; Not a related party transaction",
+    "notes_caveats": "Detailed payment terms (advance, milestone, retention, credit period) are not disclosed in the PDF; Annexure A referenced but full text of detailed commercial terms not available in the extracted pages"
+  },
+  "analysis": {
+    "key_ratios": "Order Value: Rs. 108.68 Crore = INR 1,086,807,575 (~INR 1.087B)\nAnnual Revenue (LTM): INR 6.39B = INR 639 Crore\nOrder Value / Annual Revenue = 1.087B / 6.39B = 17.01%\nNet Profit / Order Book / Market Cap: Not available (not provided in inputs)\nMargin profile on this order: Not available (not disclosed)\nOrder Duration: 1 Year (annualised contract, no multi-year visibility)\nAnnualised Order Value vs Annual Revenue = 17.01% (full order equals ~one-sixth of yearly topline)",
+    "materiality_assessment": "The order from NHAI is moderately material at the topline level — a single 1-year contract worth ~17% of LTM revenue is meaningful for a small-cap infrastructure/toll-collection company. However, materiality is meaningfully diluted by several factors: (i) the contract is only one year with no visibility on renewal or follow-on toll-plaza wins, (ii) it is a user-fee collection (toll operations) contract, not an EPC/construction order, so margins are typically thinner and more Opex-driven (staff, equipment, deposit to NHAI), (iii) GST treatment and payment terms are undisclosed, which can shift economics materially, and (iv) the company's prior LTM revenue growth is only ~13%, meaning this order provides a decent but not transformative revenue boost on its own. For a company of this size, a ~INR 109 Cr one-year toll collection win is a positive signal of continued NHAI confidence but is unlikely to be a standalone earnings catalyst without additional orders.",
+    "risks": "1. Short tenure risk: Only 1-year contract — revenue cliff after expiry unless renewed; concentration in a single toll plaza.\n2. Margin risk: Toll collection is a service/operations contract with typically lower EBITDA margins (5–12%); undisclosed margins make earnings impact uncertain.\n3. Working capital/cash risk: NHAI toll contracts usually require a sizeable security deposit/bank guarantee; payment terms, retention and credit period are all undisclosed, raising cash-flow risk.\n4. GST/contract value ambiguity: Whether the INR 108.68 Cr is inclusive or exclusive of GST is not stated — this can swing effective revenue by 18%.\n5. One-time/renewal risk: Competitive e-tender process means the incumbent has no guaranteed right of renewal; loss of the plaza would mean ~17% revenue at risk.\n6. Execution concentration: Adds geographic and client concentration (single state-border plaza, single client NHAI).\n7. Limited forward visibility: No order book data provided to assess pipeline depth or multi-year revenue cover.",
+    "verdict": "Good Deal",
+    "rationale": "At ~17% of LTM revenue, the NHAI toll-collection award is sizeable enough to be meaningful for a sub-INR 700 Cr revenue company, comes from a high-credit-quality counterparty (NHAI), and signals continued competitive wins in the toll O&M space. It is not 'Excellent' because the contract is short (1 year), toll-collection margins are typically thin, payment/commercial terms and GST treatment are undisclosed, and there is a real renewal/execution risk after year one. Net assessment: a good, supportive order win rather than a transformative one."
+  },
+  "errors": [],
+  "saved_at": "2026-09-06T20:26:49"
+}

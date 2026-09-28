@@ -1,0 +1,41 @@
+{
+  "company_code": "531260",
+  "company_name": "Refex Renewables & Infrastructure Ltd",
+  "day": "2026-09-05",
+  "pdf_path": "C:\\Users\\omkar.patil\\Desktop\\Trantor Project\\Stocks_daily_script\\bse_award_orders\\2026-09-05\\531260_Refex Renewables & Infrastructure Ltd.pdf",
+  "verdict": "Good Deal",
+  "revenue": {
+    "company_name": "Refex Renewables & Infrastructure Ltd",
+    "annual_revenue": "₹739.7 million",
+    "currency": "INR",
+    "fiscal_year": "FY 2025",
+    "source_notes": "Screener.in market analysis data showing revenue of ₹739.7m (down 2.8% from FY 2024), representing the latest reported fiscal year figures for the company formerly known as SunEdison Infrastructure Limited."
+  },
+  "order_details": {
+    "company": "Refex Renewables & Infrastructure Limited",
+    "order_value": "₹3.88 per kWh (tariff-based, not a fixed lump-sum)",
+    "currency_gst_note": "Not disclosed",
+    "order_breakup": "Not disclosed",
+    "client_awarding_authority": "SJVN Limited (A Joint Venture of Government of India and Government of Himachal Pradesh)",
+    "project_scope_summary": "Setting up an 80-MW Wind Power Project in Kurnool, Andhra Pradesh, with a 25-year Power Purchase Agreement (PPA) under which power will be supplied at a tariff of ₹3.88 per kWh.",
+    "payment_structure": {
+      "one_time_payment": "Not disclosed",
+      "upfront_advance_pct": "Not disclosed",
+      "milestone_progressive_billing": "Not disclosed",
+      "retention_bg_ld_terms": "Not disclosed",
+      "payment_cycle_credit_period": "Not disclosed"
+    },
+    "contract_duration_execution_period": "25 years (PPA duration)",
+    "other_commercial_terms": "The order is tariff-based; consideration accrues over the 25-year PPA tenure based on actual energy supplied. No fixed contract value is specified.",
+    "notes_caveats": "The award letter confirms the order but does not disclose a specific lump-sum order value. Payment terms are described as tariff-based over the PPA period. Detailed payment structure (milestones, retainers, credit periods) is not provided in the document."
+  },
+  "analysis": {
+    "key_ratios": "Order Value / Annual Revenue: Not calculable in conventional terms — the announcement specifies a tariff of ₹3.88/kWh, not a lump-sum contract value. Indicative annual revenue potential: 80 MW × 8,760 hours × ~25% CUF (typical wind PLF) × ₹3.88/kWh ≈ ₹80 MW capacity factor adjustment — 80 MW × 1,000 kW × 8,760 hrs × 25% × ₹3.88 = ~₹67.95 million per year (gross of expenses). Implied annual revenue / FY25 revenue of ₹739.7 million = ~9.2% per year, scaling to ~₹1,698.75 million over the 25-year PPA (~2.3x of FY25 revenue). Order Book / Market Cap: Not available.",
+    "materiality_assessment": "The order is moderately to highly material over the long term but not in any single fiscal year. Refex Renewables' FY2025 revenue base is modest at ₹739.7 million and is actually declining (-2.8% YoY), so an 80-MW wind PPA secured from a strong PSU counterparty (SJVN, a central/state government JV) represents a meaningful structural addition to top line. At an estimated ~₹68 million in annual tariff revenue once commissioned, this single project could add roughly 9% to annual revenue per year and ~2.3x cumulative revenue over the PPA life. However, because the award is tariff-based rather than a fixed EPC/turnkey value, near-term recognition depends on capex, commissioning timeline, and actual generation, all of which are undisclosed.",
+    "risks": "1. No disclosed lump-sum order value — earnings impact is contingent on commissioning, generation (CUF), and 25-year execution. 2. Tariff of ₹3.88/kWh is competitive but not exceptional; margin depends on cost of generation, O&M, and capex efficiency. 3. Wind sector execution risks: land acquisition, grid connectivity, evacuation infrastructure, and SECI/SJVN scheduling in Andhra Pradesh. 4. Long 25-year horizon introduces counterparty, regulatory, tariff revision, and policy risks (e.g., changes in renewable purchase obligations, state discom payment delays). 5. Payment terms, milestones, credit period, and bank guarantees are undisclosed, raising working-capital and realization uncertainty. 6. Company revenue base is small and shrinking (-2.8% YoY), suggesting limited financial cushion to absorb project delays. 7. Project is not yet commissioned — revenue will be back-end loaded relative to capex outflows. 8. No clarity on whether Refex is EPC contractor or asset owner/PPA signatory — material to margin profile. 9. Market cap and existing order book are Not available, limiting comparison.",
+    "verdict": "Good Deal",
+    "rationale": "Securing an 80-MW wind PPA from a credible government counterparty (SJVN) at a competitive tariff is a meaningful, growth-oriented win for a small-cap company with shrinking revenue (₹739.7 million, -2.8% YoY). The implied ~9% annual revenue uplift and ~2.3x cumulative revenue contribution over 25 years are structurally significant. However, the absence of a disclosed lump-sum value, execution timeline, payment terms, and the company's modest financial base temper the assessment, preventing an 'Excellent Deal' rating despite the strong long-term optionality."
+  },
+  "errors": [],
+  "saved_at": "2026-09-06T20:22:02"
+}

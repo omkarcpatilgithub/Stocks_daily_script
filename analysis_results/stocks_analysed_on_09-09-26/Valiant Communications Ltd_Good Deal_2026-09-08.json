@@ -1,0 +1,41 @@
+{
+  "company_code": "526775",
+  "company_name": "Valiant Communications Ltd",
+  "day": "2026-09-08",
+  "pdf_path": "C:\\Users\\omkar.patil\\Desktop\\Trantor Project\\Stocks_daily_script\\bse_award_orders\\2026-09-08\\526775_Valiant Communications Ltd.pdf",
+  "verdict": "Good Deal",
+  "revenue": {
+    "company_name": "Valiant Communications Ltd",
+    "annual_revenue": "₹21.00Cr",
+    "currency": "INR",
+    "fiscal_year": "Q2 FY2025-2026",
+    "source_notes": "Latest quarterly revenue figure from Valiant Communications Ltd Q2 FY2025-2026 results"
+  },
+  "order_details": {
+    "company": "Valiant Communications Limited",
+    "order_value": "INR 985 Lacs (inclusive of taxes)",
+    "currency_gst_note": "INR 985 Lacs (inclusive of taxes)",
+    "order_breakup": "Not disclosed",
+    "client_awarding_authority": "BSE Limited",
+    "project_scope_summary": "Supply and commissioning of communication, protection and synchronization Equipment",
+    "payment_structure": {
+      "one_time_payment": "Yes",
+      "upfront_advance_pct": "Not disclosed",
+      "milestone_progressive_billing": "Not disclosed",
+      "retention_bg_ld_terms": "Not disclosed",
+      "payment_cycle_credit_period": "Not disclosed"
+    },
+    "contract_duration_execution_period": "By 31-03-2027",
+    "other_commercial_terms": "Domestic award; supply and commissioning only; no related party transaction concerns; order size reported on gross basis.",
+    "notes_caveats": "The order value includes taxes. The project involves supply and commissioning of communication, protection and synchronization equipment. Execution is due by 31-03-2027."
+  },
+  "analysis": {
+    "key_ratios": "Order Value / Annual Revenue = 985 / 2100 = 0.4686 (46.86%)",
+    "materiality_assessment": "Material - The order represents approximately 47% of annual revenue, indicating a significant and material business commitment.",
+    "risks": "One-time payment with undisclosed upfront advance percentage, milestone billing and retention BG LD terms not disclosed, payment cycle credit period not disclosed, potential execution risk due to long contract duration (through 31-03-2027), limited visibility into profit contribution from this specific order, and uncertain cash flow timing.",
+    "verdict": "Good Deal",
+    "rationale": "The order constitutes nearly half of the company's annual revenue, representing a substantial and material business engagement. While there are notable risks including undisclosed payment terms and execution uncertainty, the scale and strategic importance of the supply and commissioning project justify a positive assessment."
+  },
+  "errors": [],
+  "saved_at": "2026-09-09T11:04:24"
+}

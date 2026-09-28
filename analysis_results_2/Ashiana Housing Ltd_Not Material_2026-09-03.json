@@ -1,0 +1,41 @@
+{
+  "company_code": "523716",
+  "company_name": "Ashiana Housing Ltd",
+  "day": "2026-09-03",
+  "pdf_path": "C:\\Users\\omkar.patil\\Desktop\\Trantor Project\\Stocks_daily_script\\bse_award_orders\\2026-09-03\\523716_Ashiana Housing Ltd.pdf",
+  "verdict": "Not Material",
+  "revenue": {
+    "company_name": "Ashiana Housing Ltd",
+    "annual_revenue": "₹872 Crore",
+    "currency": "INR",
+    "fiscal_year": "FY2024-25 (latest reported)",
+    "source_notes": "Figure sourced from publicly available financial data (NSE/BSE filings and market trackers). Note: an alternative figure of ₹1,062.52 Cr (likely total income including other income) was also reported in the same results."
+  },
+  "order_details": {
+    "company": "Ashiana Housing Ltd",
+    "order_value": "Not disclosed",
+    "currency_gst_note": "Not disclosed",
+    "order_breakup": "Not disclosed",
+    "client_awarding_authority": "Rajasthan RERA Authority",
+    "project_scope_summary": "Ashiana Dwarka Phase-5 project at Jodhpur (Rajasthan)",
+    "payment_structure": {
+      "one_time_payment": "Not disclosed",
+      "upfront_advance_pct": "Not disclosed",
+      "milestone_progressive_billing": "Not disclosed",
+      "retention_bg_ld_terms": "Not disclosed",
+      "payment_cycle_credit_period": "Not disclosed"
+    },
+    "contract_duration_execution_period": "Not disclosed",
+    "other_commercial_terms": "Not disclosed",
+    "notes_caveats": "Penalty of ₹3,99,000/- imposed by Rajasthan RERA for delay in submission of Completion Certificate and Occupancy Certificate; company has paid the penalty."
+  },
+  "analysis": {
+    "key_ratios": "Order Value / Annual Revenue (%): Not available",
+    "materiality_assessment": "The order's value is not disclosed, preventing any quantitative assessment of its contribution to Ashiana Housing Ltd's ₹872 Crore annual revenue; thus its materiality cannot be determined.",
+    "risks": "Undisclosed order size; unknown payment terms and milestones; potential execution delays; reliance on a single project; limited visibility into contract profitability; prior RERA penalty indicating regulatory risk.",
+    "verdict": "Not Material",
+    "rationale": "Since the order value is not disclosed, its impact on revenue and profit is indeterminate, and no quantitative basis exists to judge significance, making the deal effectively not material to the company."
+  },
+  "errors": [],
+  "saved_at": "2026-09-04T14:00:29"
+}

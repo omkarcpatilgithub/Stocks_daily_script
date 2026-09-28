@@ -1,0 +1,41 @@
+{
+  "company_code": "513269",
+  "company_name": "Man Industries (India) Ltd",
+  "day": "2026-09-10",
+  "pdf_path": "C:\\Users\\omkar.patil\\Desktop\\Trantor Project\\Stocks_daily_script\\bse_award_orders\\2026-09-10\\513269_Man Industries (India) Ltd.pdf",
+  "verdict": "Good Deal",
+  "revenue": {
+    "company_name": "Man Industries (India) Ltd",
+    "annual_revenue": "More than ₹1,000 crore",
+    "currency": "INR",
+    "fiscal_year": "FY 2025 (year ended March 31, 2025)",
+    "source_notes": "The company-revenue search result cites the latest filed financial documents for FY 2025, which report revenue exceeding ₹1,000 crore."
+  },
+  "order_details": {
+    "company": "Man Industries (India) Limited",
+    "order_value": "Rs.600 Crores",
+    "currency_gst_note": "Indian Rupees (Rs.)",
+    "order_breakup": "Not disclosed",
+    "client_awarding_authority": "Domestic and International Customers",
+    "project_scope_summary": "Supply of various types of Pipes",
+    "payment_structure": {
+      "one_time_payment": "Not disclosed",
+      "upfront_advance_pct": "Not disclosed",
+      "milestone_progressive_billing": "Not disclosed",
+      "retention_bg_ld_terms": "Not disclosed",
+      "payment_cycle_credit_period": "Not disclosed"
+    },
+    "contract_duration_execution_period": "Within 6 - 9 Months",
+    "other_commercial_terms": "Not disclosed",
+    "notes_caveats": "Not disclosed"
+  },
+  "analysis": {
+    "key_ratios": "Order Value / Annual Revenue = 600 crore / >1,000 crore ≈ <60% (using minimum revenue of 1,000 crore gives 60%)",
+    "materiality_assessment": "The order value of ₹600 crore constitutes a substantial portion of the company's annual revenue (up to ~60% based on the disclosed minimum revenue), indicating it could materially affect future earnings and order book.",
+    "risks": "Undisclosed payment terms and margin profile; execution within 6‑9 months creates schedule risk; potential for low‑margin pipe supply; lack of client concentration details; one‑time nature may not lead to recurring revenue.",
+    "verdict": "Good Deal",
+    "rationale": "The order is large relative to revenue and likely to boost short‑term earnings, but undisclosed terms and execution risks prevent an Excellent rating."
+  },
+  "errors": [],
+  "saved_at": "2026-09-11T19:24:35"
+}

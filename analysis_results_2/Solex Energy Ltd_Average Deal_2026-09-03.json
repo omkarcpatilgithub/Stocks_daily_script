@@ -1,0 +1,41 @@
+{
+  "company_code": "544862",
+  "company_name": "Solex Energy Ltd",
+  "day": "2026-09-03",
+  "pdf_path": "C:\\Users\\omkar.patil\\Desktop\\Trantor Project\\Stocks_daily_script\\bse_award_orders\\2026-09-03\\544862_Solex Energy Ltd.pdf",
+  "verdict": "Average Deal",
+  "revenue": {
+    "company_name": "Solex Energy Ltd",
+    "annual_revenue": "Not disclosed",
+    "currency": "INR",
+    "fiscal_year": "Not disclosed",
+    "source_notes": "The company_revenue tool did not return a published annual revenue figure for Solex Energy Ltd. Based on available public information, Solex Energy Ltd is a small-cap solar PV module manufacturer listed on Indian exchanges; consolidated annual revenue figures for the most recent fiscal year were not surfaced in the search results and would need to be verified from the company's annual report or BSE/NSE filings."
+  },
+  "order_details": {
+    "company": "Solex Energy Limited",
+    "order_value": "₹74.77 Crore (Rupees Seventy-Four Crore Seventy-Seven Lakh Only)",
+    "currency_gst_note": "INR; inclusive of applicable taxes (GST treatment not separately specified)",
+    "order_breakup": "Not disclosed",
+    "client_awarding_authority": "Domestic entities (names not disclosed)",
+    "project_scope_summary": "Manufacture and supply of Solar PV Modules",
+    "payment_structure": {
+      "one_time_payment": "Not disclosed",
+      "upfront_advance_pct": "Not disclosed",
+      "milestone_progressive_billing": "Not disclosed",
+      "retention_bg_ld_terms": "Not disclosed",
+      "payment_cycle_credit_period": "Not disclosed"
+    },
+    "contract_duration_execution_period": "Execution scheduled across December 2026",
+    "other_commercial_terms": "As per the terms of the order (no further specifics disclosed)",
+    "notes_caveats": "Order value of ₹74.77 Crore is inclusive of applicable taxes. The order(s) have been awarded by domestic entities whose names have not been disclosed. Promoter/promoter group/group companies have no interest in the awarding entity, and the order does not fall within related party transactions. No detailed breakup, payment terms, retention/BG/LD, or credit period information provided in the intimation."
+  },
+  "analysis": {
+    "key_ratios": "Annual Revenue: Not available — Order Value / Annual Revenue (%): Not calculable due to missing annual revenue figure.\nNet Profit (Annual): Not available — Order Value / Net Profit (%): Not calculable.\nOrder Book (existing): Not available — Order as % of existing order book: Not calculable.\nMarket Capitalisation: Not available — Order as % of Market Cap: Not calculable.\nOrder Value: ₹74.77 Crore (inclusive of applicable taxes).\nGST Implication: Order value inclusive of taxes — underlying pre-tax order value is lower than ₹74.77 Crore (precise pre-tax value Not disclosed).\nExecution Timeline: Single delivery milestone in December 2026 — entire ₹74.77 Cr to be recognised roughly within ~6–7 months of the assumed current period (mid-2026).",
+    "materiality_assessment": "Materiality cannot be quantitatively assessed because the company's annual revenue, net profit, order book and market capitalisation are all 'Not available'. Qualitatively, however, ₹74.77 Crore is a sizeable absolute ticket size for a small-cap solar PV module manufacturer and, given that execution is compressed into a single month (December 2026), the revenue from this order is likely to be concentrated and visible in the period it is executed. The lack of disclosed client names, breakup, payment terms and credit period limits the ability to judge durability, counter-party quality and working-capital impact. If Solex's annual revenue is in the sub-₹500 Cr range (typical for a small-cap module player), this single order could be high single-digit to low double-digit % of annual revenue, which would be material; if annual revenue is materially higher, the order is moderate.",
+    "risks": "1. Annual revenue not disclosed — true order-to-revenue ratio cannot be computed, so materiality is uncertain.\n2. Client identities not disclosed — counter-party creditworthiness and concentration risk cannot be assessed.\n4. Payment terms, advance %, credit period, retention/BG/ld are all undisclosed — meaningful working-capital and cash-flow risk for the company.\n5. Order value is inclusive of GST, so the actual pre-tax realisable revenue is lower than the headline figure.\n6. Execution concentrated in a single month (December 2026) — single delivery slippage or quality rejection could materially hit quarterly performance.\n7. Scope is commodity-like (solar PV modules) — typically thin margins; the headline ₹74.77 Cr may translate into limited absolute profit contribution.\n8. No breakup between firm order and letter of intent/LOA — possible one-time, non-repeatable nature.\n9. Execution and capacity risk: order must be delivered alongside any other existing order book within a tight window.\n10. No clarity on whether pricing is fixed or pass-through on raw material (polysilicon/wafer/cell) volatility — margin risk if costs rise before December 2026.",
+    "verdict": "Average Deal",
+    "rationale": "Absolute order size of ₹74.77 Crore is reasonable for a small-cap solar module company, but meaningful judgement is constrained by missing financials (revenue, profit, order book, market cap) and missing commercial details (client name, breakup, payment terms, credit period). Execution concentrated in a single month raises delivery risk, commodity-like module scope caps margin upside, and GST-inclusive value inflates the headline. On balance, it appears to be a useful but not transformational order — an Average Deal pending confirmation of scale and counter-party strength."
+  },
+  "errors": [],
+  "saved_at": "2026-09-04T14:11:47"
+}

@@ -1,0 +1,41 @@
+{
+  "company_code": "530363",
+  "company_name": "Ugar Sugar Works Ltd",
+  "day": "2026-09-03",
+  "pdf_path": "C:\\Users\\omkar.patil\\Desktop\\Trantor Project\\Stocks_daily_script\\bse_award_orders\\2026-09-03\\530363_Ugar Sugar Works Ltd.pdf",
+  "verdict": "Not Material",
+  "revenue": {
+    "company_name": "Ugar Sugar Works Ltd",
+    "annual_revenue": "Rs. 1,51,509.34 lakhs (approximately Rs. 1,515.09 crores)",
+    "currency": "INR",
+    "fiscal_year": "FY26 (year ended March 31, 2026)",
+    "source_notes": "Based on standalone audited financial results for FY26. Note: There is some variation in reported figures across sources, with FY25 showing revenue of approximately Rs. 1,420 crores."
+  },
+  "order_details": {
+    "company": "Ugar Sugar Works Ltd",
+    "order_value": "Not disclosed",
+    "currency_gst_note": "Not disclosed",
+    "order_breakup": "Not disclosed",
+    "client_awarding_authority": "Not disclosed",
+    "project_scope_summary": "Not disclosed",
+    "payment_structure": {
+      "one_time_payment": "Not disclosed",
+      "upfront_advance_pct": "Not disclosed",
+      "milestone_progressive_billing": "Not disclosed",
+      "retention_bg_ld_terms": "Not disclosed",
+      "payment_cycle_credit_period": "Not disclosed"
+    },
+    "contract_duration_execution_period": "Not disclosed",
+    "other_commercial_terms": "Not disclosed",
+    "notes_caveats": "PDF not accessible at the provided path; unable to extract details."
+  },
+  "analysis": {
+    "key_ratios": "Order Value / Annual Revenue (%): Not available",
+    "materiality_assessment": "The materiality of the order cannot be assessed as the order value is not disclosed, preventing comparison with annual revenue or other metrics.",
+    "risks": "Undisclosed order value prevents assessment of financial impact. Undisclosed payment terms may lead to cash flow risks. Undisclosed execution period poses execution risk. One-time nature could affect revenue stability if not recurring.",
+    "verdict": "Not Material",
+    "rationale": "Due to the lack of disclosure of the order value and other critical details, it is impossible to determine the materiality of the order. Based on available information, the order cannot be considered material."
+  },
+  "errors": [],
+  "saved_at": "2026-09-04T14:04:11"
+}

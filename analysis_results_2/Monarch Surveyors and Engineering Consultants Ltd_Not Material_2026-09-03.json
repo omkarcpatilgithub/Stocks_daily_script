@@ -1,0 +1,41 @@
+{
+  "company_code": "544453",
+  "company_name": "Monarch Surveyors and Engineering Consultants Ltd",
+  "day": "2026-09-03",
+  "pdf_path": "C:\\Users\\omkar.patil\\Desktop\\Trantor Project\\Stocks_daily_script\\bse_award_orders\\2026-09-03\\544453_Monarch Surveyors and Engineering Consultants Ltd.pdf",
+  "verdict": "Not Material",
+  "revenue": {
+    "company_name": "Monarch Surveyors and Engineering Consultants Ltd",
+    "annual_revenue": "₹176.77 Crore",
+    "currency": "INR",
+    "fiscal_year": "FY26",
+    "source_notes": "Annual revenue reported in company's FY26 earnings release (April 29, 2026)."
+  },
+  "order_details": {
+    "company": "Monarch Surveyors and Engineering Consultants Limited",
+    "order_value": "Rs. 4,30,00,000/- (Rupees Four Crores Thirty Lakhs Only)",
+    "currency_gst_note": "INR; GST treatment not disclosed",
+    "order_breakup": "Not disclosed",
+    "client_awarding_authority": "Maharashtra Airport Development Company Ltd.",
+    "project_scope_summary": "Appointment of Consultant for Forest Diversion, Revenue Coordination and Statutory Clearances for proposed Greenfield Airport at Gadchiroli, Maharashtra.",
+    "payment_structure": {
+      "one_time_payment": "Not disclosed",
+      "upfront_advance_pct": "Not disclosed",
+      "milestone_progressive_billing": "Not disclosed",
+      "retention_bg_ld_terms": "Not disclosed",
+      "payment_cycle_credit_period": "Not disclosed"
+    },
+    "contract_duration_execution_period": "Commences immediately; estimated completion timeline as per contract terms",
+    "other_commercial_terms": "Cash Consideration; Not a related party transaction",
+    "notes_caveats": "Work subject to necessary approvals from governmental authorities; Completion timeline as per contract terms"
+  },
+  "analysis": {
+    "key_ratios": "Order Value / Annual Revenue: (4.3 / 176.77) × 100 = 2.43%\nNet Profit: Not available\nOrder Book: Not available\nMarket Capitalisation: Not available",
+    "materiality_assessment": "The order value of ₹4.3 Crore is approximately 2.4% of Monarch's FY26 annual revenue of ₹176.77 Crore, indicating limited materiality to the company's overall financial performance.",
+    "risks": "Small order size limiting revenue contribution; undisclosed payment terms, milestone billing, and retention policies; execution dependent on governmental approvals; unknown margins and cash flow timing; one-time nature without evident pipeline extension.",
+    "verdict": "Not Material",
+    "rationale": "The order constitutes only ~2.4% of annual revenue, and with critical commercial terms un disclosed and execution subject to regulatory approvals, it is not expected to materially affect the company's financial performance or growth trajectory."
+  },
+  "errors": [],
+  "saved_at": "2026-09-04T14:08:03"
+}

@@ -1,0 +1,41 @@
+{
+  "company_code": "522215",
+  "company_name": "HLE Glascoat Ltd",
+  "day": "2026-09-08",
+  "pdf_path": "C:\\Users\\omkar.patil\\Desktop\\Trantor Project\\Stocks_daily_script\\bse_award_orders\\2026-09-08\\522215_HLE Glascoat Ltd.pdf",
+  "verdict": "Good Deal",
+  "revenue": {
+    "company_name": "HLE Glascoat Ltd",
+    "annual_revenue": "₹1,352.98 crore",
+    "currency": "INR",
+    "fiscal_year": "FY2026",
+    "source_notes": "Reported total revenue of ₹1,352.98 crore for the full fiscal year as of Q4 FY2026 according to company financial disclosures."
+  },
+  "order_details": {
+    "company": "HLE Glascoat Limited (through step-down subsidiary HLE Surface Technologies GmbH)",
+    "order_value": "Approx Euro 20.56 million",
+    "currency_gst_note": "Euro; GST treatment not disclosed",
+    "order_breakup": "Not disclosed",
+    "client_awarding_authority": "FLC Portals Group I/S, Denmark",
+    "project_scope_summary": "Supply of vitreous enamel cladding panels for setting up a tunnel between the German island of Fehmarn and the Danish island of Lolland",
+    "payment_structure": {
+      "one_time_payment": "Not disclosed",
+      "upfront_advance_pct": "Not disclosed",
+      "milestone_progressive_billing": "Not disclosed",
+      "retention_bg_ld_terms": "Not disclosed",
+      "payment_cycle_credit_period": "Not disclosed"
+    },
+    "contract_duration_execution_period": "On or before April, 2030",
+    "other_commercial_terms": "Not disclosed",
+    "notes_caveats": "Order awarded to HLE Surface Technologies GmbH, a step-down subsidiary of HLE Glascoat Limited; no promoter/group interest in the awarding entity; not a related party transaction"
+  },
+  "analysis": {
+    "key_ratios": "Order Value ≈ Euro 20.56M × ~90 INR/EUR ≈ ₹185.04 crore; Order Value / Annual Revenue = 185.04 / 1352.98 × 100 ≈ 13.68%; Annualized Order Value (over ~4.5 years to April 2030) ≈ ₹41.12 crore/year ≈ 3.04% of Annual Revenue per year; Net Profit / Order Book / Market Cap — Not available in inputs",
+    "materiality_assessment": "The order value of approximately ₹185 crore represents ~13.68% of HLE Glascoat's FY2026 annual revenue of ₹1,352.98 crore, making it a meaningful single-order win. However, since execution spans until April 2030 (~4-5 years), the annualized revenue addition is roughly 3% per year. The order is in the company's core competency (vitreous enamel cladding), which supports capability validation and international diversification. Materiality is moderate-to-significant on a cumulative basis but modest on an annualized basis.",
+    "risks": "1. Long execution timeline (until April 2030) exposes the order to execution delays, cost inflation, and project-specific risks (tunnel infrastructure). 2. Payment structure, upfront advance, milestone billing, and retention terms are all undisclosed — creating cash flow and working capital uncertainty. 3. Order placed through step-down subsidiary HLE Surface Technologies GmbH (Germany) — profit repatriation to India may face German corporate tax, withholding tax, and EUR/INR conversion losses. 4. Euro-denominated contract carries FX risk if INR appreciates against EUR over the execution period. 5. No order breakup or margin profile disclosed — profitability of the order is unknown. 6. International project execution risk including logistics, regulatory compliance, and geopolitical factors. 7. No promoter/group interest in the awarding entity reduces related-party risk but also means less negotiating leverage.",
+    "verdict": "Good Deal",
+    "rationale": "The order represents ~13.68% of annual revenue, which is a significant win for HLE Glascoat in its core product segment (vitreous enamel cladding). It validates the company's international capabilities through its European subsidiary. However, the multi-year execution timeline dilutes the annual impact to ~3% of revenue, and the lack of disclosed payment terms, margin profile, and order breakup introduces uncertainty. The step-down subsidiary structure and FX exposure further moderate the net benefit. Overall, this is a solid, meaningful order but not transformative enough to be classified as an Excellent Deal."
+  },
+  "errors": [],
+  "saved_at": "2026-09-09T11:02:45"
+}

@@ -1,0 +1,41 @@
+{
+  "company_code": "543997",
+  "company_name": "Organic Recycling Systems Ltd",
+  "day": "2026-09-09",
+  "pdf_path": "C:\\Users\\omkar.patil\\Desktop\\Trantor Project\\Stocks_daily_script\\bse_award_orders\\2026-09-09\\543997_Organic Recycling Systems Ltd.pdf",
+  "verdict": "Good Deal",
+  "revenue": {
+    "company_name": "Organic Recycling Systems Ltd",
+    "annual_revenue": "₹105.07 crore",
+    "currency": "INR",
+    "fiscal_year": "FY26 (year ended March 31, 2026)",
+    "source_notes": "Company FY26 results report revenue from operations of ₹10,507.46 lakh, up from ₹4,839.06 lakh in FY25."
+  },
+  "order_details": {
+    "company": "Organic Recycling Systems Ltd",
+    "order_value": "Rs. 92.41 Crore",
+    "currency_gst_note": "INR, GST inclusive",
+    "order_breakup": "Not disclosed",
+    "client_awarding_authority": "Bharat Petroleum Corporation Limited",
+    "project_scope_summary": "Engineering, Procurement, Construction, Operation and Maintenance (EPCOM) for setting up of an Organic Municipal Solid Waste based Compressed Bio-Gas (CBG) Plant at Kozhikode, Kerala.",
+    "payment_structure": {
+      "one_time_payment": "Not disclosed",
+      "upfront_advance_pct": "Not disclosed",
+      "milestone_progressive_billing": "Not disclosed",
+      "retention_bg_ld_terms": "Not disclosed",
+      "payment_cycle_credit_period": "Not disclosed"
+    },
+    "contract_duration_execution_period": "EPC including commissioning within 15 months from the date of Letter of Acceptance, followed by 5 years of comprehensive O&M from commissioning",
+    "other_commercial_terms": "Not disclosed",
+    "notes_caveats": "Not disclosed"
+  },
+  "analysis": {
+    "key_ratios": "Order Value / Annual Revenue (%): (92.41 crore / 105.07 crore) * 100 ≈ 87.95%",
+    "materiality_assessment": "The order value of ₹92.41 crore is approximately 87.95% of the company's latest annual revenue of ₹105.07 crore, indicating a highly material order. However, the contract duration of 6.5 years (15 months for EPC and 5 years for O&M) means the revenue will be recognized over time, with an average annual contribution of about ₹14.22 crore, which is significant but less than the current annual revenue. Net profit, order book, and market capitalisation are not available for comparison.",
+    "risks": "Key risks include undisclosed payment terms, which could affect cash flow and margins; execution risk associated with the 15-month EPC timeline; margin uncertainty due to lack of financial details; and the one-time nature of the order, though the O&M component provides recurring revenue for 5 years.",
+    "verdict": "Good Deal",
+    "rationale": "The order is substantial relative to current revenue and from a reputable client (BPCL), but undisclosed terms and execution risks prevent it from being an excellent deal."
+  },
+  "errors": [],
+  "saved_at": "2026-09-09T10:59:14"
+}

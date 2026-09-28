@@ -1,0 +1,41 @@
+{
+  "company_code": "533761",
+  "company_name": "GPT Infraprojects Ltd",
+  "day": "2026-09-12",
+  "pdf_path": "C:\\Users\\omkar.patil\\Desktop\\Trantor Project\\Stocks_daily_script\\bse_award_orders\\2026-09-12\\533761_GPT Infraprojects Ltd.pdf",
+  "verdict": "Good Deal",
+  "revenue": {
+    "company_name": "GPT Infraprojects Ltd",
+    "annual_revenue": "Rs. 1,020Cr",
+    "currency": "INR",
+    "fiscal_year": "FY ending Mar 31, 2024",
+    "source_notes": "Financial results summary showing revenue for FY ending March 31, 2024"
+  },
+  "order_details": {
+    "company": "GPT Infraprojects Limited (via WOS Alcon Builders and Engineers Private Limited)",
+    "order_value": "₹ 85.53 Crore (including GST); ₹ 72.48 Crore (excluding GST)",
+    "currency_gst_note": "INR; GST inclusive value ₹85.53 Cr, GST excluded value ₹72.48 Cr (implies GST ~₹13.05 Cr)",
+    "order_breakup": "Not disclosed",
+    "client_awarding_authority": "CSTE Con, Eastern Railway, Kolkata",
+    "project_scope_summary": "Commissioning of Auto signaling work using MSDAC for continuous track circuiting and Electronic Interlocking work at New Mugma (EI) & Mugma Yard (PI to EI) in the section Pradhankunta & Mugma (~25 km) for Dedicated Freight Corridor work in Asansol Division of Eastern Railway, in connection with Sonnagar to Andal Multitracking work",
+    "payment_structure": {
+      "one_time_payment": "Not disclosed",
+      "upfront_advance_pct": "Not disclosed",
+      "milestone_progressive_billing": "Not disclosed",
+      "retention_bg_ld_terms": "Not disclosed",
+      "payment_cycle_credit_period": "Not disclosed"
+    },
+    "contract_duration_execution_period": "12 months from LOA (Letter of Award)",
+    "other_commercial_terms": "Order awarded by a domestic entity; no promoter/promoter group/group company interest in the awarding entity; not a related party transaction",
+    "notes_caveats": "This is a contract win by the Company's Wholly Owned Subsidiary (WOS) Alcon Builders and Engineers Pvt Ltd; order forms part of the Dedicated Freight Corridor project of Eastern Railway; press release dated September 12, 2026; follows earlier L1 intimation dated August 6, 2026"
+  },
+  "analysis": {
+    "key_ratios": "Order Value / Annual Revenue: ₹72.48 Cr / ₹1,020 Cr = 7.1%\n(Order Value (ex‑GST) / Annual Revenue) = (72.48/1020)*100 = 7.1%",
+    "materiality_assessment": "The order equals roughly 7% of the company's FY24 revenue, which is a noticeable contribution but not transformative on its own.",
+    "risks": "Undisclosed payment terms and margins; execution risk over 12‑month period; reliance on wholly‑owned subsidiary; potential for cost overruns; one‑time nature of the contract; no details on order book or net profit to assess cumulative impact.",
+    "verdict": "Good Deal",
+    "rationale": "At ~7% of annual revenue the contract is material enough to boost near‑term earnings if margins are healthy, yet the lack of margin and payment‑term details prevents an Excellent rating."
+  },
+  "errors": [],
+  "saved_at": "2026-09-15T11:23:54"
+}

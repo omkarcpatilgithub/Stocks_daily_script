@@ -1,0 +1,41 @@
+{
+  "company_code": "536974",
+  "company_name": "Captain Polyplast Ltd",
+  "day": "2026-09-17",
+  "pdf_path": "C:\\Users\\omkar.patil\\Desktop\\Trantor Project\\Stocks_daily_script\\bse_award_orders\\2026-09-17\\536974_Captain Polyplast Ltd.pdf",
+  "verdict": "Good Deal",
+  "revenue": {
+    "company_name": "Captain Polyplast Ltd",
+    "annual_revenue": "₹41,974.53 lakh (~₹419.75 Cr)",
+    "currency": "INR",
+    "fiscal_year": "FY26 (ending March 31, 2026)",
+    "source_notes": "Figure taken from the company's Q4 FY26 results announcement dated May 29, 2026, which stated annual revenue reached ₹41,974.53 lakh."
+  },
+  "order_details": {
+    "company": "Captain Polyplast Limited",
+    "order_value": "Rs. 47 Crores approx.",
+    "currency_gst_note": "Indian rupees; including GST",
+    "order_breakup": "Not disclosed",
+    "client_awarding_authority": "Maharashtra State Electricity Distribution Company Limited (MSEDCL)",
+    "project_scope_summary": "Design, manufacture, supply, transport, installation, testing and commissioning of 2,000 off-grid DC solar photovoltaic water pumping systems of 3 HP, 5 HP and 7.5 HP capacity at identified farmer sites in Maharashtra, including complete system warranty, repair and maintenance, and Remote Monitoring System for 5 years under the PM-KUSUM B Scheme “Majhe Tyala Saur Krushi Pump” Yojana.",
+    "payment_structure": {
+      "one_time_payment": "Not disclosed",
+      "upfront_advance_pct": "Not disclosed",
+      "milestone_progressive_billing": "Not disclosed",
+      "retention_bg_ld_terms": "Not disclosed",
+      "payment_cycle_credit_period": "Not disclosed"
+    },
+    "contract_duration_execution_period": "Installation to be completed within 60 days from the date of issuance of the NTP, Work Order or JSR approval.",
+    "other_commercial_terms": "Complete system warranty, repair and maintenance, and Remote Monitoring System for 5 years under the PM-KUSUM B Scheme.",
+    "notes_caveats": "The order value is approximate and includes GST. The order is domestic. The PDF states that no promoter or group company has an interest in the awarding entity and that the order is not a related-party transaction."
+  },
+  "analysis": {
+    "key_ratios": "Order Value / Annual Revenue = ₹47 Cr / ₹419.75 Cr = 11.2%\nNet Profit: Not available\nOrder Book: Not available\nMarket Capitalisation: Not available",
+    "materiality_assessment": "The order represents approximately 11.2% of the company's latest annual revenue, which is a meaningful contribution to near-term revenue visibility. It is a government-backed project (PM-KUSUM B Scheme) with a state utility (MSEDCL), providing credibility and potential for follow-on orders. The scope includes 5-year warranty and maintenance, implying recurring revenue stream. However, the order is a one-time project with aggressive 60-day installation timeline for 2,000 systems across dispersed farmer sites.",
+    "risks": "1. Undisclosed margins and payment terms (advance, milestones, retention, credit period) make profitability uncertain. 2. Execution risk: 60-day installation of 2,000 off-grid solar pumping systems across Maharashtra is ambitious and may face logistical, site-access, or coordination delays. 3. Five-year warranty and maintenance obligation could erode margins if not adequately priced. 4. Order value includes GST, so net revenue is lower. 5. No information on net profit, order book, or market cap to assess leverage or concentration risk.",
+    "verdict": "Good Deal",
+    "rationale": "The order is material at ~11% of annual revenue, comes from a reputable government entity under a flagship scheme, and includes a 5-year maintenance tail. However, tight execution timeline, undisclosed commercial terms, and long-term warranty obligations temper enthusiasm. It is a positive development but not transformative."
+  },
+  "errors": [],
+  "saved_at": "2026-09-17T17:32:36"
+}

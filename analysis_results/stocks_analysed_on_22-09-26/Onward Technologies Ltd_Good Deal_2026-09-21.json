@@ -1,0 +1,41 @@
+{
+  "company_code": "517536",
+  "company_name": "Onward Technologies Ltd",
+  "day": "2026-09-21",
+  "pdf_path": "C:\\Users\\omkar.patil\\Desktop\\Trantor Project\\Stocks_daily_script\\bse_award_orders\\2026-09-21\\517536_Onward Technologies Ltd.pdf",
+  "verdict": "Good Deal",
+  "revenue": {
+    "company_name": "Onward Technologies Ltd",
+    "annual_revenue": "₹550.9 crore",
+    "currency": "INR",
+    "fiscal_year": "FY26 (2025-2026)",
+    "source_notes": "Based on BSE Limited filing and company press releases dated May 2026 reporting FY26 revenue of ₹550.9 crore, reflecting 10.5% YoY growth."
+  },
+  "order_details": {
+    "company": "Onward Technologies Limited",
+    "order_value": "₹44.46 Crores (Rupees Forty Four Crores and Forty Six Lakhs Only)",
+    "currency_gst_note": "Indian Rupees (₹); GST treatment not disclosed in the document",
+    "order_breakup": "Not disclosed",
+    "client_awarding_authority": "World's leading manufacturer of construction and mining equipment (domestic entity)",
+    "project_scope_summary": "Managed Digital Services contract for application development, enhancement, testing, deployment, integration and application support of e-commerce platform for aftermarket business, including cloud-native application engineering, microservices, APIs and DevOps-enabled delivery. Delivery is 100% offshore from India Delivery Centers.",
+    "payment_structure": {
+      "one_time_payment": "Not disclosed",
+      "upfront_advance_pct": "Not disclosed",
+      "milestone_progressive_billing": "Not disclosed",
+      "retention_bg_ld_terms": "Not disclosed",
+      "payment_cycle_credit_period": "Not disclosed"
+    },
+    "contract_duration_execution_period": "3 years (August 2026 to August 2029)",
+    "other_commercial_terms": "Contract type: Managed Digital Services contract; Commercial construct: Outcome based Services; 72% increase in value compared to previous contract; 100% Offshore based delivery from India Delivery Centers.",
+    "notes_caveats": "The document is an intimation of renewal of contract under Regulation 30 of SEBI (LODR) Regulations, 2015. Payment structure details (milestone billing, advance, retention, etc.) are not disclosed in this filing. Promoter/Promoter Group/Group companies have no interest in the awarding entity. Not a related party transaction."
+  },
+  "analysis": {
+    "key_ratios": "Order Value / Annual Revenue (%) = 44.46 / 550.9 = 8.07%",
+    "materiality_assessment": "Moderately material - represents approximately 8% of annual revenue but includes significant undisclosed payment terms and contract structure",
+    "risks": "One-time payment amount not disclosed; upfront advance percentage not disclosed; milestone-based billing structure not disclosed; retention and LGD terms not disclosed; payment cycle credit period not disclosed; small order size relative to overall operations despite being a major contract renewal",
+    "verdict": "Good Deal",
+    "rationale": "The order represents a substantial 72% increase in contract value over the previous agreement, totaling ₹44.46 crore against annual revenue of ₹550.9 crore (approximately 8%). While the contract is long-term (3 years) and strategically important for digital transformation, several critical payment and term details remain undisclosed, introducing execution and financial risk. Despite these uncertainties, the scale and strategic importance of the renewal justify a positive assessment."
+  },
+  "errors": [],
+  "saved_at": "2026-09-22T10:00:25"
+}

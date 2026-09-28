@@ -1,0 +1,41 @@
+{
+  "company_code": "531550",
+  "company_name": "Jhaveri Credits & Capital Ltd",
+  "day": "2026-09-04",
+  "pdf_path": "C:\\Users\\omkar.patil\\Desktop\\Trantor Project\\Stocks_daily_script\\bse_award_orders\\2026-09-04\\531550_Jhaveri Credits & Capital Ltd.pdf",
+  "verdict": "Not Material",
+  "revenue": {
+    "company_name": "Jhaveri Credits & Capital Ltd",
+    "annual_revenue": "₹1,706.28 lakh (Q1 FY26 standalone revenue, 45.5% YoY growth)",
+    "currency": "INR",
+    "fiscal_year": "Q1 FY 2025-26 (full-year annual revenue not clearly disclosed in results; figure represents latest reported quarterly revenue)",
+    "source_notes": "Based on Q1 FY26 results announced August 12, 2025; full-year FY26 revenue not explicitly disclosed in the available results summary."
+  },
+  "order_details": {
+    "company": "Jhaveri Credits and Capital Limited",
+    "order_value": "Not disclosed",
+    "currency_gst_note": "Not disclosed",
+    "order_breakup": "RTS Category 1 Upto 10 KW: Rs. 4.28 per unit; RTS Category 2 Greater than 10 KW to less than equal to 100 KW: Rs. 4.18 per unit; RTS Category 3 Greater than 100 Kw to less than or equal to 500 Kw: Rs. 4.10 per Unit; RTS Category 4 Above 500 Kw: Rs. 3.98 per unit",
+    "client_awarding_authority": "New & Renewable Energy Development Corporation of Andhra Pradesh Ltd",
+    "project_scope_summary": "Supply, Installation and Commissioning of Grid-Connected Rooftop Solar Power Plants at Various Government Institutions in Andhra Pradesh under RESCO Mode",
+    "payment_structure": {
+      "one_time_payment": "Yes",
+      "upfront_advance_pct": "Not disclosed",
+      "milestone_progressive_billing": "Not disclosed",
+      "retention_bg_ld_terms": "Not disclosed",
+      "payment_cycle_credit_period": "Not disclosed"
+    },
+    "contract_duration_execution_period": "90 days from Scheduled Commissioning Date",
+    "other_commercial_terms": "Not disclosed",
+    "notes_caveats": "Not disclosed"
+  },
+  "analysis": {
+    "key_ratios": "Order Value / Annual Revenue (%): Not available (order value not disclosed)",
+    "materiality_assessment": "Low materiality; order value not disclosed precludes direct comparison with annual revenue of ₹1,706.28 lakh (Q1 FY26). The project appears to be a single rooftop solar installation under RESCO mode in Andhra Pradesh, likely representing a minor portion of the company's revenue given its credit & capital business focus.",
+    "risks": "Undisclosed order value and payment terms; government client payment risk (Andhra Pradesh); execution risk within 90-day commissioning period; one-time project nature without recurring revenue; regulatory and RESCO mode risks; limited scale relative to the company's financial services operations.",
+    "verdict": "Not Material",
+    "rationale": "Order value not disclosed, so no quantitative materiality assessment possible. The order is a discrete solar rooftop project with per-unit pricing, likely small relative to the company's ₹1,706.28 lakh (Q1 FY26) revenue. As a one-off engagement for a credit & capital firm, it is unlikely to meaningfully impact future earnings or business growth."
+  },
+  "errors": [],
+  "saved_at": "2026-09-04T13:54:39"
+}

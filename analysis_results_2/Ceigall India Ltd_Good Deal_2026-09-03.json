@@ -1,0 +1,41 @@
+{
+  "company_code": "544223",
+  "company_name": "Ceigall India Ltd",
+  "day": "2026-09-03",
+  "pdf_path": "C:\\Users\\omkar.patil\\Desktop\\Trantor Project\\Stocks_daily_script\\bse_award_orders\\2026-09-03\\544223_Ceigall India Ltd.pdf",
+  "verdict": "Good Deal",
+  "revenue": {
+    "company_name": "Ceigall India Ltd",
+    "annual_revenue": "₹2,400 crore",
+    "currency": "INR",
+    "fiscal_year": "FY 2024-25 (based on latest quarterly results)",
+    "source_notes": "Based on latest quarterly results (Q4 FY 2024-25) showing 37.06% increase in net sales; revenue rising from ₹2,000 crore in previous year to ₹2,400 crore. The company reported its highest quarterly performance with 70.86% rise in net profit."
+  },
+  "order_details": {
+    "company": "Ceigall India Limited",
+    "order_value": "Rs. 608.67 crores annually for 35 years; Total Project Cost Rs. 5,300 crores approx.",
+    "currency_gst_note": "INR; Total project cost is inclusive of GST",
+    "order_breakup": "Not disclosed",
+    "client_awarding_authority": "REC Power Development and Consultancy Limited (RECPDCL)",
+    "project_scope_summary": "Letter of Intent (LoI) for Common Transmission System for evacuation of power from Lakadia (Phase II: 7.5GW), Jam Khambhaliya (Phase-II: 5.5GW) and Jamnagar (Phase-I: 1GW) - Part-B. Scope includes 765/400 kV AIS Substation with 300 km Transmission Line on Tariff Based Contract Agreement basis.",
+    "payment_structure": {
+      "one_time_payment": "No",
+      "upfront_advance_pct": "Not disclosed",
+      "milestone_progressive_billing": "Not disclosed",
+      "retention_bg_ld_terms": "Not disclosed",
+      "payment_cycle_credit_period": "Not disclosed"
+    },
+    "contract_duration_execution_period": "36 months for work execution; 35 years operational period (Scheduled Commissioning Date based)",
+    "other_commercial_terms": "Tariff Based Contract Agreement; Domestic order; LoI received via email dated 03.09.2026 in continuation to earlier letter dated 26.08.2026; No promoter/promoter group interest; Not a related party transaction",
+    "notes_caveats": "This is a Letter of Intent (LoI), not a final awarded contract. Annual Transmission charges of Rs. 608.67 crores are for the 35-year operational period. Total project cost of ~Rs. 5,300 crores is inclusive of GST."
+  },
+  "analysis": {
+    "key_ratios": "Order Value / Annual Revenue = ₹608.67 cr / ₹2,400 cr = 0.2536 → 25.36%",
+    "materiality_assessment": "The annual order value of ₹608.67 crore represents about 25% of the company's FY2024‑25 revenue, indicating a potentially material contribution to turnover if the LoI is converted into a firm contract and the project proceeds as planned.",
+    "risks": "The award is currently a Letter of Intent, not a definitive contract; payment terms, milestones, and any advance are undisclosed; execution risk over a 36‑month construction period; long‑term operational revenue depends on tariff‑based contract and regulatory approvals; possible delays or cost overruns; GST inclusive project cost may affect net margins.",
+    "verdict": "Good Deal",
+    "rationale": "The order size is substantial relative to revenue, offers multi‑year visibility, and aligns with the company's core transmission business, though the LoI status and undisclosed terms introduce moderate risk."
+  },
+  "errors": [],
+  "saved_at": "2026-09-04T14:06:02"
+}

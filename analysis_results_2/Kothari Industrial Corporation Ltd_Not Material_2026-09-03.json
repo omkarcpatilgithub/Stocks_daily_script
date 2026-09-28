@@ -1,0 +1,41 @@
+{
+  "company_code": "509732",
+  "company_name": "Kothari Industrial Corporation Ltd",
+  "day": "2026-09-03",
+  "pdf_path": "C:\\Users\\omkar.patil\\Desktop\\Trantor Project\\Stocks_daily_script\\bse_award_orders\\2026-09-03\\509732_Kothari Industrial Corporation Ltd.pdf",
+  "verdict": "Not Material",
+  "revenue": {
+    "company_name": "Kothari Industrial Corporation Ltd",
+    "annual_revenue": "Rs 178.30 crore",
+    "currency": "INR",
+    "fiscal_year": "FY26",
+    "source_notes": "Latest annual data from search results indicates revenue grew from Rs 27.10 crore in FY24 to Rs 178.30 crore in FY26."
+  },
+  "order_details": {
+    "company": "Kothari Industrial Corporation Limited",
+    "order_value": "4,15,31,817.60 INR",
+    "currency_gst_note": "Not disclosed",
+    "order_breakup": "Not disclosed",
+    "client_awarding_authority": "Puliangudi Municipality, Tamil Nadu",
+    "project_scope_summary": "Food service provider for Perunthalaivar Kamarajar Morning Breakfast Scheme for school children in Puliangudi Municipality for 3 years",
+    "payment_structure": {
+      "one_time_payment": "Not disclosed",
+      "upfront_advance_pct": "Not disclosed",
+      "milestone_progressive_billing": "Not disclosed",
+      "retention_bg_ld_terms": "Not disclosed",
+      "payment_cycle_credit_period": "Not disclosed"
+    },
+    "contract_duration_execution_period": "3 years",
+    "other_commercial_terms": "Not disclosed",
+    "notes_caveats": "No related party transactions; compliance with LOA and tender documents"
+  },
+  "analysis": {
+    "key_ratios": "Order Value = Rs 4,15,31,817.60 (approximately Rs 4.15 crore)\nAnnual Revenue (FY26) = Rs 178.30 crore\nOrder Value / Annual Revenue = 4.15 / 178.30 = 0.0233 = 2.33%\nContract Duration = 3 years\nAnnualized Order Value = Rs 4.15 crore / 3 = Rs 1.38 crore per year\nAnnualized Value / Annual Revenue = 1.38 / 178.30 = 0.0077 = 0.77% per year\n\nNote: Net profit, order book, and market capitalisation are not available for this analysis.",
+    "materiality_assessment": "This order is NOT MATERIAL for Kothari Industrial Corporation Ltd. The order value of Rs 4.15 crore represents only 2.33% of the company's annual revenue of Rs 178.30 crore. Even when spread over 3 years, the annualized value of approximately Rs 1.38 crore per year equals just 0.77% of annual revenue. Given the company's current revenue scale of Rs 178.30 crore, this contract would have negligible impact on overall financial performance.",
+    "risks": "1. Small order size relative to company revenue (2.33% of annual revenue)\n2. One-time nature - limited recurring revenue unless contract renews\n3. No disclosed payment structure or payment terms - credit risk unknown\n4. No disclosed margins or profitability data\n5. Government/tender contract - compliance and execution risks\n6. Food service contracts have thin margins typically\n7. Contract duration tied to government scheme continuation\n8. Limited growth potential within the scope\n9. Puliangudi Municipality is a small municipal body - payment reliability risk\n10. No order book data to assess backlog sustainability",
+    "verdict": "Not Material",
+    "rationale": "While this is a legitimate government contract from Puliangudi Municipality for a 3-year school breakfast scheme, the order value of Rs 4.15 crore is immaterial relative to Kothari Industrial Corporation's annual revenue of Rs 178.30 crore (only 2.33%). The annualized contribution of Rs 1.38 crore annually (0.77% of revenue) would not meaningfully impact earnings, cash flows, or growth trajectory. The undisclosed payment terms, margins, and retention/LD clauses add execution uncertainty. This appears to be a modest service contract rather than a strategic order that would drive material business growth."
+  },
+  "errors": [],
+  "saved_at": "2026-09-04T13:57:46"
+}

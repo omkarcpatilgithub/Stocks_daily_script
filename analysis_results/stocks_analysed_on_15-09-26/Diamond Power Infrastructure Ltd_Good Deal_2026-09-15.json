@@ -1,0 +1,41 @@
+{
+  "company_code": "522163",
+  "company_name": "Diamond Power Infrastructure Ltd",
+  "day": "2026-09-15",
+  "pdf_path": "C:\\Users\\omkar.patil\\Desktop\\Trantor Project\\Stocks_daily_script\\bse_award_orders\\2026-09-15\\522163_Diamond Power Infrastructure Ltd.pdf",
+  "verdict": "Good Deal",
+  "revenue": {
+    "company_name": "Diamond Power Infrastructure Ltd",
+    "annual_revenue": "₹1,910 Crore",
+    "currency": "INR",
+    "fiscal_year": "FY2026 (ending March 31, 2026)",
+    "source_notes": "From company_revenue tool results, reflecting FY2026 annual revenue."
+  },
+  "order_details": {
+    "company": "Diamond Power Infrastructure Limited",
+    "order_value": "₹179.43 crore",
+    "currency_gst_note": "INR; order value is inclusive of GST. Prices also include packing and forwarding, freight, and transit insurance.",
+    "order_breakup": "Approximately 871 km of cable in aggregate, comprising 33 kV and 11 kV medium-voltage cables together with associated 1.1 kV low-voltage cables.",
+    "client_awarding_authority": "Adani Electricity Mumbai Limited",
+    "project_scope_summary": "Supply of specialised water-tree-retardant TR-XLPE medium-voltage cables with longitudinal and radial water-blocking construction, engineered for Mumbai's coastal and monsoon conditions and intended for the Mumbai distribution network.",
+    "payment_structure": {
+      "one_time_payment": "Not disclosed",
+      "upfront_advance_pct": "Not disclosed",
+      "milestone_progressive_billing": "Not disclosed",
+      "retention_bg_ld_terms": "Not disclosed",
+      "payment_cycle_credit_period": "Not disclosed"
+    },
+    "contract_duration_execution_period": "Deliveries are to commence upon manufacturing clearance at a scheduled rate of approximately 50 km per month, advanced in line with project requirements.",
+    "other_commercial_terms": "The formal purchase order is to be issued by the customer against the Letter of Award. The order was received in the ordinary course of business, at arm's length, and does not constitute a related-party transaction.",
+    "notes_caveats": "The document is a Letter of Award; a formal purchase order has not yet been issued. No payment schedule, advance, milestone billing, retention, bank guarantee, liquidated damages, or credit-period terms are disclosed."
+  },
+  "analysis": {
+    "key_ratios": "Order Value / Annual Revenue = ₹179.43 Crore / ₹1,910 Crore = 9.4%",
+    "materiality_assessment": "The order represents approximately 9.4% of the company's annual revenue, which is a moderately meaningful win. It is not a dominant order but provides a noticeable boost to revenue visibility, especially given the specialized nature of the cables and the reputable client (Adani Electricity Mumbai Limited).",
+    "risks": "1. Order is based on a Letter of Award; formal purchase order not yet issued, introducing execution and confirmation risk. 2. Payment terms, advance, milestone billing, retention, and credit period are undisclosed, creating cash flow and receivables risk. 3. Contract duration and pricing margins are not clearly defined, limiting visibility into profitability. 4. Delivery schedule of ~50 km/month over ~17.5 months implies sustained execution and working capital commitment. 5. No net profit or order book figures provided, so impact on earnings cannot be precisely quantified.",
+    "verdict": "Good Deal",
+    "rationale": "The order is sizable relative to annual revenue (~9.4%) and comes from a credible client for specialized products. However, the lack of formal purchase order, undisclosed payment terms, and absence of profit or margin data prevent it from being classified as an Excellent Deal. It is a solid, visible win but carries execution and financial risks that temper its overall impact."
+  },
+  "errors": [],
+  "saved_at": "2026-09-15T11:19:18"
+}

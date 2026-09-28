@@ -1,0 +1,41 @@
+{
+  "company_code": "544335",
+  "company_name": "B.R.Goyal Infrastructure Ltd",
+  "day": "2026-09-04",
+  "pdf_path": "C:\\Users\\omkar.patil\\Desktop\\Trantor Project\\Stocks_daily_script\\bse_award_orders\\2026-09-04\\544335_B.R.Goyal Infrastructure Ltd.pdf",
+  "verdict": "Good Deal",
+  "revenue": {
+    "company_name": "B.R.Goyal Infrastructure Ltd",
+    "annual_revenue": "INR 50,682.55 Lakh",
+    "currency": "INR",
+    "fiscal_year": "FY ending 31 March 2025",
+    "source_notes": "FinancialFilings reports total revenues of INR 50682.55 Lakh for the financial year ended 31 March 2025."
+  },
+  "order_details": {
+    "company": "B.R.Goyal Infrastructure Limited",
+    "order_value": "Rs. 108,68,07,575",
+    "currency_gst_note": "INR, GST treatment not disclosed",
+    "order_breakup": "Not disclosed",
+    "client_awarding_authority": "National Highways Authority of India (NHAI)",
+    "project_scope_summary": "Engagement of user fee collection agency through e-Tender for Chillakallu Toll Plaza for the project 4/6 laning of Hyderabad-Vijayawada section of NH-65 (Old NH-9) from Km. 40+000 to Km. 221+500 on DBFOT basis in Telangana and Andhra Pradesh.",
+    "payment_structure": {
+      "one_time_payment": "Not disclosed",
+      "upfront_advance_pct": "Not disclosed",
+      "milestone_progressive_billing": "Not disclosed",
+      "retention_bg_ld_terms": "Not disclosed",
+      "payment_cycle_credit_period": "Not disclosed"
+    },
+    "contract_duration_execution_period": "One (01) Year",
+    "other_commercial_terms": "Not disclosed",
+    "notes_caveats": "Not disclosed"
+  },
+  "analysis": {
+    "key_ratios": "Order Value / Annual Revenue (%) = 21.45%",
+    "materiality_assessment": "The order represents roughly 21% of the company's annual revenue, indicating a material contribution but not dominant; it could meaningfully affect near‑term earnings.",
+    "risks": "Execution risk, undisclosed payment terms, one‑year contract duration, reliance on NHAI toll collection performance, potential low margins",
+    "verdict": "Good Deal",
+    "rationale": "While the order is a sizable 21% of revenue, its one‑year term and dependence on toll collection introduce execution and cash‑flow risks, making it a good but not excellent deal."
+  },
+  "errors": [],
+  "saved_at": "2026-09-04T13:55:59"
+}
