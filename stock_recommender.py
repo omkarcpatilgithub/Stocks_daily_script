@@ -5,9 +5,9 @@ Stock recommender flow:
    - If bse_award_orders/<YYYY-MM-DD>/ already has PDFs, reuse it
    - Else download that single day via download_annoucement_pdf.py --date ...
 2. For every PDF across those days:
-   - Agent A -> company revenue (web search)
+   - Agent A -> company annual revenue + sales (web search) and sales/revenue ratio
    - Agent B -> order details from the PDF
-   - Agent C -> analysis + verdict from A and B
+   - Agent C -> analysis + verdict from A and B (order vs sales, sales/revenue)
 
 Returns one record per company so later steps can score them.
 """
@@ -203,8 +203,11 @@ _ddg = DuckDuckGoSearchRun()
 
 @tool
 def company_revenue(company_name: str) -> str:
-    """Search the internet for a company's latest annual revenue."""
-    query = f"{company_name} latest annual revenue FY"
+    """Search the internet for a company's latest annual revenue and annual sales/net sales."""
+    query = (
+        f"{company_name} latest annual revenue net sales operating revenue "
+        f"total income FY consolidated"
+    )
     print("  Searching:", query)
     return _ddg.invoke(query)
 
@@ -237,15 +240,26 @@ def read_award_pdf(pdf_path: str) -> str:
 
 REVENUE_AGENT_PROMPT = (
     "You are a helpful research assistant. "
-    "Always use the company_revenue tool before answering revenue questions. "
-    "Analyse the revenue number of the given company.\n\n"
+    "Always use the company_revenue tool before answering. "
+    "Fetch the company's latest annual revenue and annual sales (net sales / "
+    "operating revenue / revenue from operations). Prefer consolidated figures "
+    "for the same fiscal year.\n\n"
+    "Treat annual_sales as operating turnover (net sales / revenue from operations). "
+    "Treat annual_revenue as the broader top-line if available (e.g. total income / "
+    "total revenue); if only one operating figure is found, use it for annual_sales "
+    "and set annual_revenue to the same value with a note.\n\n"
+    "Compute sales_to_revenue_ratio = annual_sales / annual_revenue, expressed as a "
+    "percentage with arithmetic shown. If either figure is missing, use "
+    "'Not available' for the ratio.\n\n"
     "Return ONLY valid JSON (no markdown, no extra text) with exactly these keys:\n"
     "{\n"
     '  "company_name": "<company queried>",\n'
     '  "annual_revenue": "<latest annual revenue figure with units>",\n'
+    '  "annual_sales": "<latest annual sales / net sales / operating revenue with units>",\n'
+    '  "sales_to_revenue_ratio": "<e.g. 95.2% (= sales / revenue) or Not available>",\n'
     '  "currency": "<INR | USD | other>",\n'
     '  "fiscal_year": "<FY period or Not disclosed>",\n'
-    '  "source_notes": "<brief note on where the figure came from>"\n'
+    '  "source_notes": "<brief note on where the figures came from and how sales vs revenue were distinguished>"\n'
     "}"
 )
 
@@ -276,21 +290,27 @@ ORDER_AGENT_PROMPT = (
 
 
 ANALYSIS_AGENT_PROMPT = (
-    "Act as a stock market analyst. You are given a company's latest annual revenue "
-    "and the already-extracted details of its BSE order announcement, so do not look "
-    "anything up and do not ask for the PDF — work only from the numbers provided.\n\n"
-    "Evaluate how meaningful the order is for the company. Compare the order value with "
-    "the annual revenue given to you, and with net profit, order book and market "
-    "capitalisation only where those figures appear in the inputs; mark anything missing "
-    "as 'Not available' instead of guessing. Calculate key ratios such as "
-    "Order Value / Annual Revenue (%), showing the arithmetic.\n"
-    "Assess whether the order is likely to materially impact future earnings and business "
-    "growth. Highlight any risks (small order size, low margins, one-time nature, "
-    "execution risk, undisclosed payment terms, etc.).\n\n"
+    "Act as a stock market analyst. You are given a company's latest annual revenue, "
+    "annual sales, sales-to-revenue ratio, and the already-extracted details of its "
+    "BSE order announcement, so do not look anything up and do not ask for the PDF — "
+    "work only from the numbers provided.\n\n"
+    "Primary materiality check: compare order value to annual_sales (operating "
+    "turnover), not to annual_revenue. Calculate Order Value / Annual Sales (%), "
+    "showing the arithmetic.\n"
+    "Also consider sales_to_revenue_ratio from the inputs: a high ratio means most "
+    "reported revenue is operating sales (cleaner comparison); a low ratio means "
+    "non-operating income is material — treat order-vs-sales as the main signal and "
+    "note that total revenue overstates the operating base.\n"
+    "Use net profit, order book and market capitalisation only where those figures "
+    "appear in the inputs; mark anything missing as 'Not available' instead of "
+    "guessing.\n"
+    "Assess whether the order is likely to materially impact future earnings and "
+    "business growth. Highlight any risks (small order size, low margins, one-time "
+    "nature, execution risk, undisclosed payment terms, etc.).\n\n"
     "Return ONLY valid JSON (no markdown, no extra text) with exactly these keys:\n"
     "{\n"
-    '  "key_ratios": "<calculated ratios with arithmetic, one per line>",\n'
-    '  "materiality_assessment": "<how material this order is for the company>",\n'
+    '  "key_ratios": "<calculated ratios with arithmetic, one per line; must include Order Value / Annual Sales (%) and the given Sales / Revenue ratio>",\n'
+    '  "materiality_assessment": "<how material this order is vs annual sales, noting sales/revenue context>",\n'
     '  "risks": "<key risks identified>",\n'
     '  "verdict": "<must be exactly one of: Excellent Deal | Good Deal | Average Deal | Not Material>",\n'
     '  "rationale": "<brief justification for the verdict>"\n'
@@ -303,7 +323,7 @@ def _make_agent(tools: list, prompt: str, model: str = LLM_MODEL):
 
 
 def build_revenue_agent():
-    """Agent A — company revenue via web search."""
+    """Agent A — company annual revenue + sales via web search."""
     return _make_agent([company_revenue], REVENUE_AGENT_PROMPT)
 
 
@@ -313,7 +333,7 @@ def build_order_agent():
 
 
 def build_analysis_agent():
-    """Agent C — analyses A + B and returns a verdict. No tools needed."""
+    """Agent C — order vs sales + sales/revenue context; returns a verdict. No tools."""
     return _make_agent([], ANALYSIS_AGENT_PROMPT, model=ANALYSIS_LLM_MODEL)
 
 
@@ -427,7 +447,11 @@ def save_analysis_record(record: dict, output_dir: Path) -> Path | None:
 # -------------------------------------------------------------------- step 5
 
 def get_revenue(agent, company_name: str) -> dict:
-    return _ask_json(agent, f"What is {company_name} latest annual revenue?")
+    return _ask_json(
+        agent,
+        f"What are {company_name} latest annual revenue and annual sales "
+        "(net sales / operating revenue)? Also compute sales_to_revenue_ratio.",
+    )
 
 
 # -------------------------------------------------------------------- step 6
@@ -451,9 +475,11 @@ def get_analysis(
     return _ask_json(
         agent,
         f"Company: {company_name}\n\n"
-        f"[A] Latest annual revenue:\n{_format_agent_payload(revenue)}\n\n"
+        f"[A] Latest annual revenue, annual sales, and sales/revenue ratio:\n"
+        f"{_format_agent_payload(revenue)}\n\n"
         f"[B] Order announcement details:\n{_format_agent_payload(order_details)}\n\n"
-        "Analyse how meaningful this order is and give your verdict.",
+        "Analyse how meaningful this order is vs annual sales (primary), "
+        "consider the sales_to_revenue_ratio, and give your verdict.",
     )
 
 
